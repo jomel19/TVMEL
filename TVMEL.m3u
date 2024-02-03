@@ -16,11 +16,11 @@ http://nxt.plus:8080/Belen/1234/167070
 #EXTINF:0,LIGA 1
 http://gotv.vip:8880/Kim1/Kim1/122388
 #EXTINF:0,LIGA 1 MAX 1
-http://45.173.201.50:4000/play/a04t/index.m3u8
+http://45.173.201.50:4000/play/a04t
 #EXTINF:0,LIGA 1 MAX 2
-http://190.119.178.46:8000/play/a036/index.m3u8
+http://190.119.178.46:8000/play/a036
 #EXTINF:0,LIGA 1 MAX 3
-http://38.43.140.97:8000/play/a04m/index.m3u8
+http://38.43.140.97:8000/play/a04m
 #EXTINF:-1,Liga 1 Max 4
 http://tv.nousiptv.com:8080/romulowa/739376/11513416
 #EXTINF:0,LIGA 1 MAX 5
@@ -28,17 +28,23 @@ http://gotv.vip:8880/Kim1/Kim1/122387
 #EXTINF:0,LIGA 1 MAX 6
 http://tvlatino.club:2082/Manuelloayza32/cNHxnsKmB7jD/212885
 #EXTINF:-1,GOLPERU HD 1
-http://190.119.178.46:8000/play/a02n/index.m3u8
+http://190.119.178.46:8000/play/a02n
 #EXTINF:-1,GOLPERU HD 2
 http://191.97.58.41:8001/play/a008
 #EXTINF:-1,GOLPERU HD 3
 http://190.116.90.43:8000/play/a012
+#EXTINF:-1,GOLPERU HD 4
+http://38.43.140.97:8000/play/a00y
+#EXTINF:-1,GOLPERU HD 5
+http://177.53.153.20:8001/play/a03z
 #EXTINF:-1,Movistar Deportes HD 1
-http://38.43.140.97:8000/playlist.m3u8
+http://38.43.140.97:8000/play/a00l
 #EXTINF:-1,Movistar Deportes HD 2
-http://191.97.55.241:8000/play/a03x
+http://177.53.153.20:8001/play/a0ca
 #EXTINF:-1,Movistar Deportes HD 3
 http://190.116.90.43:8000/play/a00x
+#EXTINF:-1,Movistar Deportes HD 4
+http://nxt.plus:8080/Belen/1234/192577
 #EXTINF:-1,Latina HD
 http://190.119.178.46:8000/play/a02l
 #EXTINF:-1, Latina HD
@@ -65,6 +71,8 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 http://181.119.66.30:8000/play/ATV/index.m3u8
 #EXTINF:0,ATV+
 http://190.119.178.46:8000/play/a037/index.m3u8
+#EXTINF:0,Exitosa HD
+http://177.53.153.20:8001/playlist.m3u8
 #EXTINF:0,Exitosa HD
 http://161.132.108.75:50001/play/a02d/index.m3u8
 #EXTINF:-1,EXITOSA TV
@@ -114,7 +122,7 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53VCmgLf4mKQkDw3skq07Hjo
 #EXTINF:0,UNIMAS MIAMI
 http://gotv.vip:8880/Kim1/Kim1/69777
 #EXTINF:0,UNIMAS NY
-http://gotv.vip:8880/Kim1/Kim1/69778
+http://nxt.plus:8080/Belen/1234/25703
 #EXTINF:-1,ESPN HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53UkPtJagU-WomH3BleM7DhE
 #EXTINF:-1,ESPN HD
@@ -149,20 +157,24 @@ http://191.97.58.41:8001/play/a00s
 http://191.97.55.241:8000/play/a03m
 #EXTINF:-1,ESPN PREMIUM HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53T4HL2EUYRmOjNxkPUrMLkU
+#EXTINF:0,DSPORTS
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XX420A92F0kRaTqOP9Prfg
 #EXTINF:0,DSPORTS 
 http://tvlatino.club:2082/Manuelloayza32/cNHxnsKmB7jD/309601
 #EXTINF:0,DSPORTS ARG
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZDq1HK2IJj8hYWUdNJ0_h4
 #EXTINF:0,DSPORTS 
-http://161.132.108.75:50001/play/a03o/index.m3u8
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53Vj_OQ-k4rwSsC3kz6VozsE
 #EXTINF:0,DSPORTS COL HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XX420A92F0kRaTqOP9Prfg
 #EXTINF:0,DSPORTS 2
-http://161.132.108.75:50001/play/a03p/index.m3u8
-#EXTINF:0,DSPORTS 2
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53d9Zx7aSBH1pKQhylKgcu5I
+#EXTINF:0,DSPORTS 2
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZzVm8huXbAnDoGaXKuli2w
 #EXTINF:0,DSports Plus
-http://161.132.108.75:50001/play/a03q/index.m3u8
+http://gotv.vip:8880/Kim1/Kim1/352
+#EXTINF:0,TNT SPORTS LIVE
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZalqCa4-fOT86pSEiKQn0k
 #EXTINF:0,BEIN SPORTS 
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53aoTwqWJP8lolumSckYHZOw
 #EXTINF:0,BEIN SPORTS EVENTOS
@@ -175,6 +187,8 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53dUPSgidGpk-M-fwdMVGGRg
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53bq8fiXG-_Io3w5IScBcOC4
 #EXTINF:0,TUDN MX HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53UWn4LxOVEkj2zrfIsQLBPY
+#EXTINF:0,TUDN MX HD
+http://nxt.plus:8080/Belen/1234/65691
 #EXTINF:0,AZTECA DEPORTES
 http://nxt.plus:8080/Belen/1234/193967
 #EXTINF:0,AFIZZIONADOS 
@@ -198,13 +212,13 @@ http://161.132.108.75:50001/play/a03r/index.m3u8
 #EXTINF:-1,TNT SPORTS HD CL
 http://190.119.178.46:8000/play/a00u/index.m3u8
 #EXTINF:-1,Tigo Sports HD
-http://161.132.108.75:50001/play/a041/index.m3u8
+http://177.53.153.20:8001/play/a094/index.m3u8
 #EXTINF:-1,Tigo Sports HD
 http://190.119.178.46:8000/play/a03o/index.m3u8
 #EXTINF:-1,Claro Sports 1 HD
-http://161.132.108.75:50001/play/a02w/index.m3u8
+http://nxt.plus:8080/Belen/1234/59084
 #EXTINF:-1,Claro Sports 2 HD
-http://161.132.108.75:50001/play/a03v/index.m3u8
+http://nxt.plus:8080/Belen/1234/103887
 #EXTINF:-1,Fox Sports PREMIUM HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QMiY6Zx_71o0TiACTEICr8
 #EXTINF:-1,Fox Sports 1 HD
@@ -222,9 +236,13 @@ http://190.119.178.46:8000/play/a01a/index.m3u8
 #EXTINF:-1,Fox Sports MX HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
 #EXTINF:-1,TyC Sports HD
-http://177.53.153.20:8001/play/a03y/index.m3u8
+http://177.53.153.20:8001/play/a03y
 #EXTINF:-1,TyC Sports HD
-http://190.119.178.46:8000/play/a02m/index.m3u8
+http://190.119.178.44:8000/play/a01c
+#EXTINF:-1,TyC Sports HD
+http://nxt.plus:8080/Belen/1234/60567
+#EXTINF:-1,TV PUBLICA HD
+http://nxt.plus:8080/Belen/1234/171115
 #EXTINF:-1,Win Sports HD
 http://nxt.plus:8080/Belen/1234/43579
 #EXTINF:-1,Win Sports HD
@@ -234,25 +252,39 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SG4kERGGoOmBmTtJ148QB8
 #EXTINF:-1,Win Sports+ HD
 http://190.119.178.46:8000/play/a02b/index.m3u8
 #EXTINF:-1,GolTV HD
+http://gotv.vip:8880/Kim1/Kim1/84
+#EXTINF:-1,GolTV HD
 http://190.119.178.46:8000/play/a02h/index.m3u8
 #EXTINF:-1,REAL MADRID TV HD
 http://nxt.plus:8080/Belen/1234/166703
-#EXTINF:-1,ELEVEN TV HD
+#EXTINF:-1,ELEVEN SPORTS HD
 http://nxt.plus:8080/Belen/1234/168836
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://nxt.plus:8080/Belen/1234/168837
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://nxt.plus:8080/Belen/1234/168838
 #EXTINF:-1,SPORT TV HD BR
 http://nxt.plus:8080/Belen/1234/56907
 #EXTINF:-1,SPORT TV 2 HD BR
 http://nxt.plus:8080/Belen/1234/56908
 #EXTINF:-1,VAMOS LIGA
 http://nxt.plus:8080/Belen/1234/15318
+#EXTINF:-1,LA LIGA
+http://nxt.plus:8080/Belen/1234/65683
 #EXTINF:-1,EUROSPORT 1
 http://nxt.plus:8080/Belen/1234/59541
 #EXTINF:-1,EUROSPORT 2
 http://nxt.plus:8080/Belen/1234/59830
+#EXTINF:-1,TDP
+http://nxt.plus:8080/Belen/1234/15320
 #EXTINF:-1,FUTV 
 http://nxt.plus:8080/Belen/1234/69657
+#EXTINF:-1,COMBATE
+http://nxt.plus:8080/Belen/1234/51471
 #EXTINF:-1,CANAL 5 MEX
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53bt5coeAN1q-QZmemqNLlXo
+#EXTINF:-1,UNICABLE
+http://nxt.plus:8080/Belen/1234/59597
 #EXTINF:-1,CHV HD
 http://190.119.178.46:8000/play/a014/index.m3u8
 #EXTINF:-1,CHV HD
