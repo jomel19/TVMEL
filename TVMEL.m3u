@@ -97,12 +97,10 @@ http://161.132.108.75:50001/play/a02n
 http://161.132.108.75:50001/play/a02o
 #EXTINF:0,CANAL N HD
 http://45.71.252.67:8000/play/a0fi
-#EXTINF:-1,CAJAMARCA TV
-http://190.119.178.46:8000/play/a03g/index.m3u8
 #EXTINF:-1,TURBOMIX CAJAMARCA
 http://177.53.153.20:8001/play/a0ce
 #EXTINF:-1,TV PERU
-http://190.119.178.46:8000/play/a00d
+http://161.132.108.75:50001/play/a02e
 #EXTINF:0,TV PERU
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SujzzvZrCZ04rpYthdjbkw
 #EXTINF:0,MOVISTAR PLUS
@@ -130,6 +128,8 @@ http://nxt.plus:8080/Belen/1234/25703
 #EXTINF:-1,ESPN HD
 http://161.132.108.75:50001/play/a00b
 #EXTINF:-1,ESPN HD
+http://191.97.58.41:8001/play/a004
+#EXTINF:-1,ESPN HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53UkPtJagU-WomH3BleM7DhE
 #EXTINF:-1,ESPN HD
 http://190.121.153.89:8000/play/a04n
@@ -140,17 +140,23 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QZNObTs5gmzLlT7YtEzLKQ
 #EXTINF:-1,ESPN 2 HD
 http://161.132.108.75:50001/play/a008
 #EXTINF:-1,ESPN 2 HD
+http://161.132.108.75:50001/play/a008
+#EXTINF:-1,ESPN 2 HD
 http://177.53.153.20:8001/play/a02c
 #EXTINF:-1,ESPN 2 HD
 http://190.121.153.89:8000/play/a032
 #EXTINF:-1,ESPN 2 HD MX
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53YsZs1FabWx4D8iqMzCG0sM
 #EXTINF:-1,ESPN 3 HD
+http://191.97.58.41:8001/play/a00j
+#EXTINF:-1,ESPN 3 HD
 http://161.132.108.75:50001/play/a00g
 #EXTINF:-1,ESPN 3 HD
 http://45.71.252.16:8000/play/a0ig
 #EXTINF:-1,ESPN 3 HD
 http://200.59.188.3:8000/play/a011
+#EXTINF:-1,ESPN 4 HD
+http://191.97.58.41:8001/play/a00p
 #EXTINF:-1,ESPN 4 HD
 http://161.132.108.75:50001/play/a00v
 #EXTINF:-1,ESPN 4  HD
@@ -163,20 +169,24 @@ http://200.59.188.3:8000/play/a01z
 http://191.97.58.41:8001/play/a00s
 #EXTINF:-1,ESPN EXTRA HD
 http://161.132.108.75:50001/play/a014
+#EXTINF:-1,ESPN EXTRA HD
+http://191.97.58.41:8001/play/a00s
 #EXTINF:-1,ESPN PREMIUM HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53T4HL2EUYRmOjNxkPUrMLkU
+#EXTINF:0,DSPORTS PE 
+http://161.132.108.75:50001/play/a03o
 #EXTINF:0,DSPORTS PE
-http://161.132.108.75:50001/play/a03p/index.m3u8
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330771
 #EXTINF:0,DSPORTS
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XX420A92F0kRaTqOP9Prfg
-#EXTINF:0,DSPORTS ARG
+#EXTINF:0,DSPORTS 
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZDq1HK2IJj8hYWUdNJ0_h4
-#EXTINF:0,DSPORTS EC
+#EXTINF:0,DSPORTS 
 http://45.71.252.16:8000/play/a0k1
 #EXTINF:0,DSPORTS COL HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XX420A92F0kRaTqOP9Prfg
 #EXTINF:0,DSPORTS 2 
-http://161.132.108.75:50001/play/a03p/index.m3u8
+http://161.132.108.75:50001/play/a03p
 #EXTINF:0,DSPORTS 2
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53d9Zx7aSBH1pKQhylKgcu5I
 #EXTINF:0,DSPORTS 2
@@ -235,6 +245,8 @@ http://nxt.plus:8080/Belen/1234/59084
 http://nxt.plus:8080/Belen/1234/103887
 #EXTINF:-1,Fox Sports PREMIUM HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QMiY6Zx_71o0TiACTEICr8
+#EXTINF:-1, Fox Sports HD
+http://161.132.108.75:50001/play/a02p
 #EXTINF:-1,Fox Sports 1 HD
 http://38.43.140.97:8000/play/a00h
 #EXTINF:-1,Fox Sports 1 HD
@@ -249,8 +261,12 @@ http://45.71.252.16:8000/play/a0ih
 http://200.59.188.3:8000/play/a032
 #EXTINF:-1,FOX Sports 2 HD
 http://200.59.188.3:8000/play/a01k
+#EXTINF:-1, Fox Sports 2 HD
+http://161.132.108.75:50001/play/a00w
 #EXTINF:-1,Fox Sports 3 HD
 http://200.59.188.3:8000/play/a012
+#EXTINF:-1, Fox Sports 3 HD
+http://161.132.108.75:50001/play/a00h
 #EXTINF:-1,Fox Sports MX HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
 #EXTINF:-1,TyC Sports HD
@@ -332,27 +348,9 @@ http://161.132.108.75:50001/play/a02v/index.m3u8
 #EXTINF:-1,France 24 HD
 http://161.132.108.75:50001/play/a01q/index.m3u8
 #EXTINF:-1,Space HD
-http://191.97.58.41:8001/play/a024
+http://161.132.108.75:50001/play/a006
 #EXTINF:-1,ANTENA 3 HD
 http://191.97.58.41:8001/play/a00l
-#EXTINF:-1,ESPN HD
-http://191.97.58.41:8001/play/a004
-#EXTINF:-1,ESPN 2 HD
-http://161.132.108.75:50001/play/a008/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://191.97.58.41:8001/play/a00j
-#EXTINF:-1,ESPN 4 HD
-http://191.97.58.41:8001/play/a00p
-#EXTINF:-1,ESPN EXTRA HD
-http://191.97.58.41:8001/play/a00s
-#EXTINF:-1, Fox Sports HD
-http://161.132.108.75:50001/play/a02p/index.m3u8
-#EXTINF:-1, Fox Sports 2 HD
-http://161.132.108.75:50001/play/a00w/index.m3u8
-#EXTINF:-1, Fox Sports 3 HD
-http://161.132.108.75:50001/play/a00h/index.m3u8
-#EXTINF:-1,ATRES SERIES HD
-http://190.119.178.46:8000/play/a01d
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s.png",A&E HD
 http://177.53.153.20:8001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a039.png",AMC HD
@@ -398,7 +396,7 @@ http://177.53.153.20:8001/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04v.png",CNN Internacional
 http://177.53.153.20:8001/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05z.png",CNNE
-http://177.53.153.20:8001/play/a05z/index.m3u8
+http://161.132.108.75:50001/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00k.png",CREOTV HD
 http://177.53.153.20:8001/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bc.png",Canal 13 HD
