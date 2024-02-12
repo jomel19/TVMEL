@@ -28,7 +28,7 @@ http://nxt.plus:8080/Belen/1234/130639
 #EXTINF:0,LIGA 1 MAX 5
 http://gotv.vip:8880/Kim1/Kim1/122387
 #EXTINF:0,LIGA 1 MAX 6
-http://tvlatino.club:2082/Manuelloayza32/cNHxnsKmB7jD/212885
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330755
 #EXTINF:-1,GOLPERU HD 1
 http://161.132.108.75:50001/play/a01n
 #EXTINF:-1,GOLPERU HD 2
@@ -69,6 +69,8 @@ http://161.132.108.75:50001/play/a02b
 http://45.173.201.50:4000/play/a05g
 #EXTINF:-1,PANAMERICANA 3
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/591330
+#EXTINF:-1,PANAMERICANA 4
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330720
 #EXTINF:0,ATV HD
 http://161.132.108.75:50001/play/a02h/index.m3u8
 #EXTINF:0,ATV HD
@@ -80,11 +82,11 @@ http://181.119.66.30:8000/play/ATV/index.m3u8
 #EXTINF:0,ATV+
 http://161.132.108.75:50001/play/a02i
 #EXTINF:0,Exitosa HD
-http://177.53.153.20:8001/play/a0b3
-#EXTINF:0,Exitosa HD
 http://161.132.108.75:50001/play/a02d
 #EXTINF:-1,WILLAX
 http://161.132.108.75:50001/play/a028
+#EXTINF:-1,WILLAX
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330722
 #EXTINF:0, RPP HD
 http://191.97.58.41:8001/play/a00v
 #EXTINF:0, RPP HD
@@ -225,6 +227,8 @@ http://190.119.178.46:8000/play/a02o/index.m3u8
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53aiJzcgpz5mwvJJ8I1DJlx8
 #EXTINF:0,ECDF
 http://45.71.252.16:8000/play/a0k2
+#EXTINF:0,ECDF
+http://nxt.plus:8080/Belen/1234/192579
 #EXTINF:-1,TNT Sports ARG HD
 http://nxt.plus:8080/Belen/1234/25121
 #EXTINF:-1,TNT Sports ARG HD
@@ -233,6 +237,8 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QGO_iAe6zVUzmcRYDYPtto
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53fLOdcFnBLFa4CBDC3kJrh4
 #EXTINF:-1,TNT Sports CL HD
 http://161.132.108.75:50001/play/a03r
+#EXTINF:-1,Tigo Sports HD
+http://nxt.plus:8080/Belen/1234/190052
 #EXTINF:-1,Tigo Sports HD
 http://161.132.108.75:50001/play/a02w
 #EXTINF:-1,Claro Sports 1 HD
@@ -317,6 +323,8 @@ http://nxt.plus:8080/Belen/1234/15320
 http://nxt.plus:8080/Belen/1234/69657
 #EXTINF:-1,COMBATE
 http://nxt.plus:8080/Belen/1234/51471
+#EXTINF:-1,TELEFUTURO
+http://nxt.plus:8080/Belen/1234/65701
 #EXTINF:-1,UNIVISION 
 http://161.132.108.75:50001/play/a02y
 #EXTINF:-1,CANAL 5 MEX
