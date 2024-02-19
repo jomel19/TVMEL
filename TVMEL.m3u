@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Bethel HD
-http://161.132.108.75:50001/play/a02m/index.m3u8
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53fGBoi39hbcfOD1gQloLGRg
 #EXTINF:-1,Enlace HD
 https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
 #EXTINF:-1,EBENEZER HD
@@ -32,49 +32,45 @@ http://nxt.plus:8080/Belen/1234/130639
 #EXTINF:0,LIGA 1 MAX 5
 http://gotv.vip:8880/Kim1/Kim1/122387
 #EXTINF:0,LIGA 1 MAX 6
-http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330755
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777
 #EXTINF:-1,GOLPERU HD 1
 http://191.97.58.41:8001/play/a008
 #EXTINF:-1,GOLPERU HD 2
 http://190.116.90.43:8000/play/a012
 #EXTINF:-1,GOLPERU HD 3
 http://190.108.85.20:9999/play/a00r
+#EXTINF:-1,GOLPERU HD 4
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330759
 #EXTINF:-1,Movistar Deportes HD 1
 http://177.128.113.8:1/play/a0ax
 #EXTINF:-1,Movistar Deportes HD 2
 http://190.108.85.20:9999/play/a022
 #EXTINF:-1,Movistar Deportes HD 3
 http://190.116.90.43:8000/play/a00x
-#EXTINF:-1,Movistar Deportes HD 4
-http://161.132.108.75:50001/play/a01d
-#EXTINF:-1,Latina HD
-http://161.132.108.75:50001/play/a029
 #EXTINF:-1, Latina HD
 http://190.116.90.43:8000/play/a011
 #EXTINF:-1,Latina HD
 http://181.78.208.254:8010/play/a05e
 #EXTINF:-1, Latina HD
-http://45.173.201.50:4000/play/a05e
+http://200.59.188.3:8000/play/a02m
+#EXTINF:-1, Latina HD
+http://190.119.178.46:8000/play/a017
 #EXTINF:-1,America TV HD
 http://190.116.90.43:8000/play/a010
-#EXTINF:-1, América TV HD
-http://190.119.178.46:8000/play/a02k
-#EXTINF:-1, América TV HD
-http://45.173.201.50:4000/play/a05f
+#EXTINF:-1,America TV HD
+http://190.119.178.46:8000/play/a016
 #EXTINF:-1, América TV HD
 http://190.108.85.20:9999/play/a00q
 #EXTINF:-1,PANAMERICANA HD 1
-http://161.132.108.75:50001/play/a02b
-#EXTINF:-1,PANAMERICANA HD 2
-http://45.173.201.50:4000/play/a05g
-#EXTINF:-1,PANAMERICANA 3
+http://190.119.178.46:8000/play/a01i
+#EXTINF:-1,PANAMERICANA 2
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/591330
-#EXTINF:-1,PANAMERICANA 4
+#EXTINF:-1,PANAMERICANA 3
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330720
 #EXTINF:0,ATV HD
-http://161.132.108.75:50001/play/a02h/index.m3u8
+http://190.119.178.46:8000/play/a01k
 #EXTINF:0,ATV HD
-http://45.173.201.50:4000/play/a05j/index.m3u8
+http://45.173.201.50:4000/play/a05j
 #EXTINF:0,ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:0,ATV+
@@ -82,25 +78,21 @@ http://181.119.66.30:8000/play/ATV/index.m3u8
 #EXTINF:0,ATV+
 http://161.132.108.75:50001/play/a02i
 #EXTINF:0,Exitosa HD
-http://161.132.108.75:50001/play/a02d
+http://190.119.178.46:8000/play/a0b3
 #EXTINF:-1,WILLAX
-http://161.132.108.75:50001/play/a028
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330722
 #EXTINF:-1,WILLAX
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330722
 #EXTINF:0, RPP HD
 http://191.97.58.41:8001/play/a00v
-#EXTINF:0, RPP HD
-http://161.132.108.75:50001/play/a02n
 #EXTINF:-1,RPP
-http://161.132.108.75:50001/play/a02n
-#EXTINF:0,CANAL N HD
-http://161.132.108.75:50001/play/a02o
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330726
 #EXTINF:0,CANAL N HD
 http://45.71.252.67:8000/play/a0fi
 #EXTINF:0,CANAL N HD
 http://190.95.220.212:8000/play/a059
 #EXTINF:-1,TV PERU
-http://45.173.201.50:4000/play/a05h
+http://190.119.178.46:8000/play/a01j
 #EXTINF:-1,TV PERU INT
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0,TV PERU
@@ -115,18 +107,18 @@ http://gotv.vip:8880/Kim1/Kim1/146627
 https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:0,GLOBAL
 http://191.97.58.41:8001/play/a00d
-#EXTINF:-1, GLOBAL
-http://177.53.153.20:8001/play/a010
 #EXTINF:0,USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1,SOL TV HD
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1,RETRO PLUS 
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1,TURBOMIX CAJAMARCA
+http://190.119.178.46:8000/play/a0ce/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 http://45.71.252.16:8000/play/a0im/index.m3u8
 #EXTINF:0,DISTRITO COMEDIA
-http://161.132.108.75:50001/play/a04h
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SIOtyJH31brKbvVb48t-po
 #EXTINF:0,UNIMAS 
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53VCmgLf4mKQkDw3skq07Hjo
 #EXTINF:0,UNIMAS MIAMI
@@ -179,8 +171,14 @@ http://190.119.178.46:8000/play/a00r
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330771
 #EXTINF:-1,ESPN 6 HD
 http://45.71.252.16:8000/play/a0ih
+#EXTINF:-1,ESPN 6 HD
+http://200.59.188.3:8000/play/a012
+#EXTINF:-1,ESPN 7 HD
+http://200.59.188.3:8000/play/a01k
 #EXTINF:-1,ESPN 7 HD
 http://190.116.90.43:8000/play/a00i
+#EXTINF:-1,ESPN PREMIUM HD
+http://200.59.188.3:8000/play/a032
 #EXTINF:-1,ESPN PREMIUM HD 
 http://190.119.178.46:8000/play/a01f
 #EXTINF:-1,ESPN PREMIUM HD
@@ -191,28 +189,28 @@ http://190.116.90.43:8000/play/a00u
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53T4HL2EUYRmOjNxkPUrMLkU
 #EXTINF:-1,Fox Sports MX HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
-#EXTINF:0,DSPORTS PE 
-http://161.132.108.75:50001/play/a03o
+#EXTINF:-1,Fox Sports PREMIUM MX HD
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
+#EXTINF:-1,Fox Sports PREMIUM HD
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QMiY6Zx_71o0TiACTEICr8
+#EXTINF:-1,TyC Sports HD 
+http://190.61.57.2:1010/play/a05g
+#EXTINF:-1,TyC Sports HD
+http://190.119.178.44:8000/play/a01c
+#EXTINF:-1,TyC Sports HD
+http://177.128.113.8:1/play/a09v
+#EXTINF:0,DSports 
+http://gotv.vip:8880/Kim1/Kim1/352
 #EXTINF:0,DSPORTS
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XX420A92F0kRaTqOP9Prfg
 #EXTINF:0,DSPORTS 
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZDq1HK2IJj8hYWUdNJ0_h4
 #EXTINF:0,DSPORTS 
 http://45.71.252.16:8000/play/a0k1
-#EXTINF:0,DSPORTS COL HD
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XX420A92F0kRaTqOP9Prfg
-#EXTINF:0,DSPORTS 2 
-http://161.132.108.75:50001/play/a03p
 #EXTINF:0,DSPORTS 2
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53d9Zx7aSBH1pKQhylKgcu5I
 #EXTINF:0,DSPORTS 2
-http://tvlatino.club:2082/Manuelloayza32/cNHxnsKmB7jD/309601
-#EXTINF:0,DSPORTS 2
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZzVm8huXbAnDoGaXKuli2w
-#EXTINF:0,DSports Plus
-http://161.132.108.75:50001/play/a03q
-#EXTINF:0,DSports Plus
-http://gotv.vip:8880/Kim1/Kim1/352
 #EXTINF:0,BEIN SPORTS 
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53aoTwqWJP8lolumSckYHZOw
 #EXTINF:0,BEIN SPORTS EXTRA
@@ -250,29 +248,15 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QGO_iAe6zVUzmcRYDYPtto
 #EXTINF:-1,DEPOR TV HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53fLOdcFnBLFa4CBDC3kJrh4
 #EXTINF:-1,TNT Sports CL HD
-http://161.132.108.75:50001/play/a03r
+http://190.119.178.46:8000/play/a006
 #EXTINF:-1,Tigo Sports HD
 http://nxt.plus:8080/Belen/1234/190052
 #EXTINF:-1,Tigo Sports HD
-http://161.132.108.75:50001/play/a02w
+http://190.119.178.46:8000/play/a01z
 #EXTINF:-1,Claro Sports 1 HD
 http://nxt.plus:8080/Belen/1234/59084
 #EXTINF:-1,Claro Sports 2 HD
 http://nxt.plus:8080/Belen/1234/103887
-#EXTINF:-1,Fox Sports PREMIUM HD
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QMiY6Zx_71o0TiACTEICr8
-#EXTINF:-1,ESPN PREMIUM HD
-http://200.59.188.3:8000/play/a032
-#EXTINF:-1,ESPN 7 HD
-http://200.59.188.3:8000/play/a01k
-#EXTINF:-1,ESPN 6 HD
-http://200.59.188.3:8000/play/a012
-#EXTINF:-1,TyC Sports HD 
-http://190.61.57.2:1010/play/a05g
-#EXTINF:-1,TyC Sports HD
-http://190.119.178.44:8000/play/a01c
-#EXTINF:-1,TyC Sports HD
-http://177.128.113.8:1/play/a09v
 #EXTINF:-1,TV PUBLICA HD
 http://nxt.plus:8080/Belen/1234/171115
 #EXTINF:-1,Win Sports HD
@@ -287,8 +271,6 @@ http://38.43.140.97:8000/play/a01f
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SG4kERGGoOmBmTtJ148QB8
 #EXTINF:-1,Win Sports+ HD
 http://190.61.57.2:1010/play/a03z/index.m3u8
-#EXTINF:-1,GolTV HD
-http://161.132.108.75:50001/play/a01i/index.m3u8
 #EXTINF:-1,GolTV HD
 http://gotv.vip:8880/Kim1/Kim1/84
 #EXTINF:-1,GolTV HD
@@ -332,13 +314,9 @@ http://45.71.252.16:8000/play/a0ib
 #EXTINF:-1,CHV HD
 http://gotv.vip:8880/Kim1/Kim1/229
 #EXTINF:-1,Caracol HD
-http://161.132.108.75:50001/play/a030
-#EXTINF:-1,Caracol HD
 http://190.61.57.2:1010/play/a02j
 #EXTINF:-1,RCN HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZtI-hVNKaFJOspgM6INdgE
-#EXTINF:-1,RCN HD
-http://161.132.108.75:50001/play/a02z/index.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://161.132.108.75:50001/play/a02q/index.m3u8
 #EXTINF:-1,Euronews HD
