@@ -25,22 +25,28 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 http://38.56.220.254:8000/play/a01l
 #EXTINF:0,L1 HD
 http://gotv.vip:8880/Kim1/Kim1/122388
-#EXTINF:0,L1 MAX CLARO 
+#EXTINF:-1,L1 MAX DG
+http://177.53.153.20:8001/play/a00h
+#EXTINF:-1,L1 MAX CLARO 
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/212885
-#EXTINF:0,L1 MAX SAT
+#EXTINF:-1,LIGA 1 MAX
+http://38.56.220.254:8000/play/a01k
+#EXTINF:-1,L1 MAX SAT
 http://38.56.220.254:8000/play/a01k
 #EXTINF:0,L1 MAX
 http://masterprotv1.com:8080/Alexis5856/TuGDxfSThH/1395
 #EXTINF:0,L1 MAX HD
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53fUwET2rTbcSEGU7l6dOlIQ
-#EXTINF:0,L1 MAX 1
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XIVKhN35XWFFHFT_Lq0Sys
+#EXTINF:0,L1 MAX DS
+http://disfruta.net:80/1020384/NnAQhsFApU/18428
+#EXTINF:0,L1 MAX 1 DS
 http://disfruta.net:80/1020384/NnAQhsFApU/18429
 #EXTINF:0,L1 MAX 2
 http://190.119.178.46:8000/play/a00c
 #EXTINF:0,L1 MAX 3
 http://gotv.vip:8880/Kim1/Kim1/122387
 #EXTINF:0,L1 MAX 4
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/591319
+http://38.56.220.254:8000/play/a01k
 #EXTINF:-1,L1 Max 5
 http://nxt.plus:8080/Belen/1234/130639
 #EXTINF:0,DSPORTS PE
@@ -67,6 +73,8 @@ http://38.56.220.254:8000/play/a007
 http://200.59.188.3:8000/play/a02m
 #EXTINF:0, Latina HD
 http://gotv.vip:8880/Kim1/Kim1/691
+#EXTINF:-1,America TV HD
+http://190.61.55.186:1010/play/a00y
 #EXTINF:0, America TV HD
 http://38.56.220.254:8000/play/a001
 #EXTINF:0, America TV HD
@@ -95,6 +103,8 @@ http://38.56.220.254:8000/play/a006
 http://181.119.66.30:8000/play/ATV/index.m3u8
 #EXTINF:0,ATV+
 http://gotv.vip:8880/Kim1/Kim1/682
+#EXTINF:0,Exitosa HD
+http://177.53.153.20:8001/play/a0b3
 #EXTINF:0,Exitosa HD
 http://gotv.vip:8880/Kim1/Kim1/146624
 #EXTINF:0,Exitosa HD
@@ -228,6 +238,8 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
 #EXTINF:-1,Fox Sports PREMIUM HD
 http://gotv.vip:8880/Kim1/Kim1/29641
 #EXTINF:-1,TyC Sports HD 
+http://177.53.153.20:8001/play/a03y
+#EXTINF:-1,TyC Sports HD 
 http://190.61.57.2:1010/play/a05g
 #EXTINF:-1,TyC Sports HD
 http://190.119.178.44:8000/play/a01c
@@ -269,6 +281,8 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53QhknBVcllWrsROFi2znZjw
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53VwNqSSMFHXzrcwmQk6kSTg
 #EXTINF:0,GOLF TV
 http://190.119.178.46:8000/play/a02o/index.m3u8
+#EXTINF:0,ECDF
+http://177.53.153.20:8001/play/a040
 #EXTINF:0,ECDF
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53aiJzcgpz5mwvJJ8I1DJlx8
 #EXTINF:0,ECDF
@@ -357,6 +371,8 @@ http://gotv.vip:8880/Kim1/Kim1/229
 http://45.160.12.253:8000/play/065
 #EXTINF:0,CARACOL HD
 http://190.61.55.186:1010/play/a02p
+#EXTINF:-1,Caracol HD
+http://190.61.55.186:1010/play/a02p
 #EXTINF:-1,RCN HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZtI-hVNKaFJOspgM6INdgE
 #EXTINF:0,FRANCE NOTICIAS
@@ -389,8 +405,6 @@ http://190.61.55.186:1010/play/a01f/index.m3u8
 http://190.61.55.186:1010/play/a00g/index.m3u8
 #EXTINF:-1,AXN HD
 http://190.61.55.186:1010/play/a01i/index.m3u8
-#EXTINF:-1,America TV HD
-http://190.61.55.186:1010/play/a00y/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.61.55.186:1010/play/a00o/index.m3u8
 #EXTINF:-1,Baby TV
@@ -557,4 +571,55 @@ http://190.61.55.186:1010/play/745/index.m3u8
 http://190.61.55.186:1010/play/a01h/index.m3u8
 #EXTINF:-1,Win Sports
 http://190.61.55.186:1010/play/a02r/index.m3u8
-
+#EXTINF:-1,Una Familia de Diez
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039677
+#EXTINF:-1,La Familia Peluche
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039695
+#EXTINF:-1,Nosotros los Guapos
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039684
+#EXTINF:-1,Los 3 Chiflados
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039690
+#EXTINF:-1, El Chavo Del 8
+http://disfruta.net:80/1020384/NnAQhsFApU/1263
+#EXTINF:-1,El Chapulin Colorado 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039705
+#EXTINF:-1,Cero en conducta 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039713
+#EXTINF:-1,iCarly 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039698
+#EXTINF:-1,31 Minutos 27/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039714
+#EXTINF:-1,Dragon Ball Super 25/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039748
+#EXTINF:-1,Dragon Ball Kai 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039749
+#EXTINF:-1,Dragon ball 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039750
+#EXTINF:-1,Candy Candy 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039753
+#EXTINF:-1,Capitan Tsubasa 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039754
+#EXTINF:-1,Capitan Tsubasa 24/7
+http://disfruta.net:80/1020384/NnAQhsFApU/2193
+#EXTINF:-1,Capitan Tsubasa 24/7
+http://disfruta.net:80/1020384/NnAQhsFApU/4798
+#EXTINF:-1,El show del Pajaro Loco 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039758
+#EXTINF:-1,Los Padrinos Magicos 24/7
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039771
+#EXTINF:-1,Cantinflas
+http://disfruta.net:80/1020384/NnAQhsFApU/1020
+#EXTINF:-1, Cinema PPV2
+http://disfruta.net:80/1020384/NnAQhsFApU/1056
+#EXTINF:-1, Cinema PPV3
+http://disfruta.net:80/1020384/NnAQhsFApU/1057
+#EXTINF:-1,Looney Tones
+http://disfruta.net:80/1020384/NnAQhsFApU/1479
+#EXTINF:-1,Caballeros del Z
+http://disfruta.net:80/1020384/NnAQhsFApU/2611
+#EXTINF:-1, Los Pequeños Tom y jerry
+http://disfruta.net:80/1020384/NnAQhsFApU/1488
+#EXTINF:-1, Pajaro Loco
+http://disfruta.net:80/1020384/NnAQhsFApU/1917
+#EXTINF:-1, La Vaca y El Pollo
+http://disfruta.net:80/1020384/NnAQhsFApU/4785
