@@ -131,7 +131,7 @@ http://38.56.220.254:8000/play/a001
 http://190.116.90.43:8000/play/a010
 #EXTINF:0, America TV HD
 #EXTGRP: PERU
-http://190.119.178.46:8000/play/a016
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/6723
 #EXTINF:0, América TV HD
 #EXTGRP: PERU
 http://190.108.85.20:9999/play/a00q
@@ -140,23 +140,23 @@ http://190.108.85.20:9999/play/a00q
 http://190.116.90.43:8000/play/a002
 #EXTINF:0,PANAMERICANA 2
 #EXTGRP: PERU
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/591330
+http://gotv.vip:8880/Kim1/Kim1/684
 #EXTINF:0,PANAMERICANA 3
 #EXTGRP: PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330720
-#EXTINF:0,ATV HD
+#EXTINF:-1,ATV HD
 #EXTGRP: PERU
 http://38.56.220.254:8000/play/a005
-#EXTINF:0,ATV HD
+#EXTINF:-1,ATV HD
 #EXTGRP: PERU
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
-#EXTINF:0,ATV HD
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/65
+#EXTINF:-1,ATV HD
 #EXTGRP: PERU
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+http://gotv.vip:8880/Kim1/Kim1/683
 #EXTINF:0,ATV HD
 #EXTGRP: PERU
 http://190.116.90.43:8000/play/a005
-#EXTINF:0,ATV HD
+#EXTINF:0,ATV + HD
 #EXTGRP: PERU
 http://38.56.220.254:8000/play/a006
 #EXTINF:0,ATV+
@@ -186,6 +186,9 @@ http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330722
 #EXTINF:0, RPP HD
 #EXTGRP: PERU
 http://191.97.58.41:8001/play/a00v
+#EXTINF:0, RPP HD
+#EXTGRP: PERU
+http://38.43.140.97:8000/play/a03g
 #EXTINF:-1,RPP
 #EXTGRP: PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330726
@@ -255,16 +258,19 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53UkPtJagU-WomH3BleM7DhE
 http://190.121.153.89:8000/play/a04n
 #EXTINF:-1,ESPN HD
 #EXTGRP:PACK ESPN
-http://191.97.58.41:8001/play/a00h
+http://38.43.140.97:8000/play/a03x
 #EXTINF:-1,ESPN 2 HD
 #EXTGRP:PACK ESPN
-http://45.160.12.253:8000/play/214
+http://204.199.119.6:1012/play/a03r
 #EXTINF:-1,ESPN 2 HD
 #EXTGRP:PACK ESPN
 http://181.78.78.105:8000/play/a03s
 #EXTINF:-1,ESPN 2 HD
 #EXTGRP:PACK ESPN
 http://190.121.153.89:8000/play/a032
+#EXTINF:-1,ESPN 2 HD
+#EXTGRP:PACK ESPN
+http://190.119.178.44:8000/play/a036
 #EXTINF:-1,ESPN 3 HD
 #EXTGRP:PACK ESPN
 http://191.97.58.41:8001/play/a00j
@@ -553,13 +559,15 @@ http://gotv.vip:8880/Kim1/Kim1/229
 #EXTINF:0,MEGA HD
 http://45.160.12.253:8000/play/065
 #EXTINF:0,CARACOL HD
-http://190.61.55.186:1010/play/a02p
+http://gotv.vip:8880/Kim1/Kim1/34
 #EXTINF:-1,Caracol HD
-http://190.61.55.186:1010/play/a02p
+http://38.43.140.97:8000/play/a00d
 #EXTINF:-1,Caracol HD 2
 http://181.119.66.30:8000/play/a04y
 #EXTINF:-1,RCN HD
 http://181.119.66.30:8000/play/a04h
+#EXTINF:-1,RCN HD
+http://38.43.140.97:8000/play/a01x
 #EXTINF:-1,RCN HD
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53ZtI-hVNKaFJOspgM6INdgE
 #EXTINF:0,FRANCE NOTICIAS
