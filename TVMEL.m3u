@@ -63,6 +63,9 @@ http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070263
 #EXTINF:-1,L1 MAX ANTV 2 
 #EXTGRP:DEPORTES PERU
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070264
+#EXTINF:-1,L1 MAX HD
+#EXTGRP:DEPORTES PERU
+http://161.132.108.74:50001/play/a03y
 #EXTINF:-1,L1 MAX DG 
 #EXTGRP:DEPORTES PERU
 http://177.53.153.20:8001/play/a00h
@@ -84,9 +87,6 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190617
 #EXTINF:0,L1 MAX DP
 #EXTGRP:DEPORTES PERU
 http://daleplaygo.vip:8080/KerlyZambrano/KZ8327hgtf43/330755
-#EXTINF:0,L1 MAX HD
-#EXTGRP:DEPORTES PERU
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53XIVKhN35XWFFHFT_Lq0Sys
 #EXTINF:0,L1 MAX 05
 #EXTGRP:DEPORTES PERU
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/156210
@@ -110,6 +110,9 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190620
 http://191.97.58.41:8001/play/a02f
 #EXTINF:0,DSPORTS PE
 #EXTGRP:DEPORTES PERU
+http://190.119.178.46:8000/play/a03o
+#EXTINF:0,DSPORTS + PE
+#EXTGRP:DEPORTES PERU
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190736
 #EXTINF:-1,GOLPERU HD 1
 #EXTGRP:DEPORTES PERU
@@ -131,7 +134,7 @@ http://177.53.153.20:8001/play/a0ca
 http://190.108.85.20:9999/play/a022
 #EXTINF:-1,Movistar Deportes HD 3
 #EXTGRP:DEPORTES PERU
-http://190.116.90.43:8000/play/a00x
+http://161.132.108.74:50001/play/a01d
 #EXTINF:-1,Latina HD
 #EXTGRP: PERU
 http://190.119.178.46:8000/play/a03j
@@ -170,7 +173,7 @@ http://190.108.85.20:9999/play/a00q
 http://181.176.172.66:9000/play/a02k
 #EXTINF:0,PANAMERICANA HD 1
 #EXTGRP: PERU
-http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330720
+http://161.132.108.74:50001/play/a02b
 #EXTINF:0,PANAMERICANA 2
 #EXTGRP: PERU
 http://181.176.172.66:9000/play/a037
@@ -180,6 +183,9 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/305438
 #EXTINF:0,PANAMERICANA 4
 #EXTGRP: PERU
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070269
+#EXTINF:-1,ATV HD
+#EXTGRP: PERU
+http://161.132.108.74:50001/play/a02h
 #EXTINF:-1,ATV HD
 #EXTGRP: PERU
 http://190.119.178.46:8000/play/a01k
@@ -206,8 +212,11 @@ http://gotv.vip:8880/Kim1/Kim1/682
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/65
 #EXTINF:0,Exitosa HD
 #EXTGRP: PERU
-http://177.53.153.20:8001/play/a0b3
+http://161.132.108.74:50001/play/a02d
 #EXTINF:0,Exitosa HD
+#EXTGRP: PERU
+http://177.53.153.20:8001/play/a0b3
+#EXTINF:0,RTE NOTICIAS HD
 #EXTGRP: PERU
 http://gotv.vip:8880/Kim1/Kim1/146624
 #EXTINF:0,PBO HD
@@ -236,13 +245,16 @@ http://190.119.178.46:8000/play/aa0j
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330722
 #EXTINF:0, RPP HD
 #EXTGRP: PERU
-http://191.97.58.41:8001/play/a00v
+http://161.132.108.74:50001/play/a02n
 #EXTINF:0, RPP HD
 #EXTGRP: PERU
-http://38.43.140.97:8000/play/a03g
-#EXTINF:-1,RPP
+http://191.97.58.41:8001/play/a00v
+#EXTINF:-1,RPP HD
 #EXTGRP: PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330726
+#EXTINF:0,CANAL N HD
+#EXTGRP: PERU
+http://161.132.108.74:50001/play/a02o
 #EXTINF:0,CANAL N HD
 #EXTGRP: PERU
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070252
@@ -254,16 +266,16 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/167
 http://177.53.153.20:8001/play/a0bd/index.m3u8
 #EXTINF:0,TV PERU
 #EXTGRP: PERU
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070277
+http://161.132.108.74:50001/play/a02e
 #EXTINF:0,TV PERU
 #EXTGRP: PERU
-http://190.119.178.46:8000/play/a01j
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070277
 #EXTINF:0,TV PERU
 #EXTGRP: PERU
 http://190.119.178.46:8000/play/a01j
 #EXTINF:0,TV PERU INT
 #EXTGRP: PERU
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0,MOVISTAR PLUS
 #EXTGRP: PERU
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070266
@@ -281,7 +293,7 @@ http://gotv.vip:8880/Kim1/Kim1/146627
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070267
 #EXTINF:0,GLOBAL
 #EXTGRP: PERU
-http://191.97.58.41:8001/play/a00d
+http://161.132.108.74:50001/play/a02k
 #EXTINF:0,GLOBAL
 #EXTGRP: PERU
 http://191.97.58.41:8001/play/a00d
@@ -295,6 +307,8 @@ http://190.119.178.46:8000/play/a0ce/index.m3u8
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/376299
 #EXTINF:0,COMEDY CENTRAL
 http://45.71.252.16:8000/play/a0im
+#EXTINF:0,DISTRITO COMEDIA
+http://161.132.108.74:50001/play/a04h
 #EXTINF:0,DISTRITO COMEDIA
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/376291
 #EXTINF:0,UNIMAS 
@@ -351,7 +365,7 @@ http://181.78.78.105:8000/play/a03s
 http://190.121.153.89:8000/play/a032
 #EXTINF:-1,ESPN 2 HD
 #EXTGRP:PACK ESPN
-http://167.250.135.246:81/play/a05y
+http://161.132.108.74:50001/play/a008
 #EXTINF:-1,ESPN 3 HD
 #EXTGRP:PACK ESPN
 http://191.97.58.41:8001/play/a00j
@@ -369,7 +383,7 @@ http://200.59.188.3:8000/play/a01z
 http://191.97.58.41:8001/play/a00s
 #EXTINF:-1,ESPN 4 HD
 #EXTGRP:PACK ESPN
-http://167.250.135.246:81/play/a07d
+http://161.132.108.74:50001/play/a014
 #EXTINF:0,ESPN 5 HD
 #EXTGRP:DEPORTES INT
 http://190.119.178.46:8000/play/a02o
@@ -399,7 +413,7 @@ http://181.176.172.66:9000/play/a00x
 http://200.59.188.3:8000/play/a012
 #EXTINF:0,ESPN 7 HD
 #EXTGRP:PACK ESPN
-http://45.160.12.253:8000/play/210
+http://161.132.108.74:50001/play/a00w
 #EXTINF:0,ESPN 7 HD
 #EXTGRP:PACK ESPN
 http://190.119.178.46:8000/play/a02k
@@ -417,7 +431,7 @@ http://200.59.188.3:8000/play/a032
 http://190.119.178.46:8000/play/a01f
 #EXTINF:-1,ESPN PREMIUM HD
 #EXTGRP:PACK ESPN
-http://38.43.140.97:8000/play/a00h
+http://161.132.108.74:50001/play/a02p
 #EXTINF:-1,ESPN PREMIUM HD
 #EXTGRP:PACK ESPN
 http://190.116.90.43:8000/play/a00u
@@ -537,6 +551,9 @@ http://gotv.vip:8880/Kim1/Kim1/166292
 http://gotv.vip:8880/Kim1/Kim1/146052
 #EXTINF:-1,Tigo Sports HD
 #EXTGRP:DEPORTES INT
+http://161.132.108.74:50001/play/a041
+#EXTINF:-1,Tigo Sports HD
+#EXTGRP:DEPORTES INT
 http://177.53.153.20:8001/play/a094
 #EXTINF:-1,Tigo Sports HD
 #EXTGRP:DEPORTES INT
@@ -544,6 +561,9 @@ http://190.119.178.46:8000/play/a01z
 #EXTINF:-1,Claro Sports 1 HD
 #EXTGRP:DEPORTES INT
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190633
+#EXTINF:-1,Claro Sports 2 HD
+#EXTGRP:DEPORTES INT
+http://161.132.108.74:50001/play/a03v
 #EXTINF:-1,Claro Sports 2 HD
 #EXTGRP:DEPORTES INT
 http://138.59.177.34:8000/play/a01j
@@ -574,18 +594,15 @@ http://gotv.vip:8880/Kim1/Kim1/84
 #EXTINF:-1,GolTV HD
 #EXTGRP:DEPORTES INT
 http://181.176.172.66:9000/play/a02h
-#EXTINF:-1,SPORT TV HD
+#EXTINF:-1,GolTV HD
 #EXTGRP:DEPORTES INT
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/364350
-#EXTINF:-1,SPORT TV 3 HD
-#EXTGRP:DEPORTES INT
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/364352
+http://161.132.108.74:50001/play/a01i
 #EXTINF:-1,VAMOS HD
 #EXTGRP:DEPORTES INT
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/372029
 #EXTINF:-1,CANAL 5 MEX
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53bt5coeAN1q-QZmemqNLlXo
-#EXTINF:-1,CNAL LUZ HD
+#EXTINF:-1,CANAL LUZ HD
 http://bantel.iptvperu.tv:1935/cristianos/canalluz/playlist.m3u8
 #EXTINF:-1,CHV HD
 http://45.71.252.16:8000/play/a0ib
@@ -828,7 +845,13 @@ http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039684
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039690
 #EXTINF:-1, El Chavo Del 8
 #EXTGRP:24/7
+http://home-playtv.com:8080/marcelalopez/CHXRH/216295
+#EXTINF:-1, El Chavo Del 8
+#EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1263
+#EXTINF:-1, LOS PICAPIEDRAS
+#EXTGRP:24/7
+http://home-playtv.com:8080/marcelalopez/CHXRH/177126
 #EXTINF:-1,El Chapulin Colorado 24/7
 #EXTGRP:24/7
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039705
@@ -916,3 +939,32 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374762
 #EXTINF:-1,CORRECAMINOS
 #EXTGRP:24/7
 http://home-playtv.com:8080/marcelalopez/CHXRH/216294
+#EXTINF:-1,SI YO FUERA DIPUTADO
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520861.mp4
+#EXTINF:-1,EL PROFE
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520860.mp4
+#EXTINF:-1,EL BARRENDERO
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520859.mp4
+#EXTINF:-1,ASI ES MI TIERRA
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520858.mp4
+#EXTINF:-1,SU EXCELENCIA
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520857.mp4
+#EXTINF:-1,EL PATRULLERO
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520856.mp4
+#EXTINF:-1,AHI ESTÁ EL DETALLE
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520853.mp4
+#EXTINF:-1,POR MIS PISTOLAS
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520854.mp4
+#EXTINF:-1,AGUILA O SOL
+#EXTGRP:CANTINFLAS
+http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520852.mp4
+#EXTINF:-1,
+#EXTGRP:CANTINFLAS
