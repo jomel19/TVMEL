@@ -48,10 +48,10 @@ https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w3357646
 http://45.160.12.253:8000/play/002
 #EXTINF:0,PLIM PLIM TV
 http://38.56.220.254:8000/play/a00o
-#EXTINF:-1,OVACIÓN
+#EXTINF:0,OVACIÓN
 #EXTGRP: PERU
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,CONTACTO DEPORTIVO
+#EXTINF:0,CONTACTO DEPORTIVO
 #EXTGRP: PERU
 http://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:0,L1 HD
@@ -279,6 +279,9 @@ http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0,MOVISTAR PLUS
 #EXTGRP: PERU
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070266
+#EXTINF:0,NACIONAL TV
+#EXTGRP: PERU
+http://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 #EXTINF:0, NATIVA HD
 #EXTGRP: PERU
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/214521
