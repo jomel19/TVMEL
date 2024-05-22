@@ -7,7 +7,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/bethelmovil_t6.stream/playlist.m3u8
 http://190.119.178.46:8000/play/a03d
 #EXTINF:-1,DIOS TV KIDS HD
 #EXTGRP: TV CRISTIANA
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
+http://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1,Enlace 
 #EXTGRP: TV CRISTIANA
 http://190.119.178.46:8000/play/a03m
@@ -16,7 +16,7 @@ http://190.119.178.46:8000/play/a03m
 http://45.71.252.16:8000/play/a09n
 #EXTINF:-1,NUBEHTV 
 #EXTGRP: TV CRISTIANA
-http://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 #EXTINF:-1,EBENEZER HD
 #EXTGRP: TV CRISTIANA
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53Xl09gffsysdHgTxT-uyYiI
@@ -32,9 +32,6 @@ http://stmv2.voxtvhd.com.br/cristianatv/cristianatv/playlist.m3u8
 #EXTINF:-1,CCI 
 #EXTGRP: TV CRISTIANA
 http://200.59.188.3:8000/play/a09g
-#EXTINF:-1,RED DE FE
-#EXTGRP: TV CRISTIANA
-http://45.160.12.253:8000/play/043
 #EXTINF:-1,RHEMA TV
 #EXTGRP: TV CRISTIANA
 http://201.159.113.219:49000/play/a04d
