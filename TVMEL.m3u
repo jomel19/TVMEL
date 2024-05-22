@@ -47,7 +47,7 @@ https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w3357646
 #EXTINF:0,DOS KIDS HD
 http://45.160.12.253:8000/play/002
 #EXTINF:0,PLIM PLIM TV
-http://38.56.220.254:8000/play/a00o
+http://177.234.230.226:8010/play/a026
 #EXTINF:0,OVACIÓN
 #EXTGRP: PERU
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -161,13 +161,13 @@ http://190.61.55.186:1010/play/a00y
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/6723
 #EXTINF:0, America TV HD
 #EXTGRP: PERU
-http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330712
+http://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:0, América TV HD
 #EXTGRP: PERU
 http://191.97.58.41:8001/play/a005
 #EXTINF:0, América TV HD
 #EXTGRP: PERU
-http://190.108.85.20:9999/play/a00q
+http://181.176.172.66:9000/play/a02k
 #EXTINF:0, America TV HD
 #EXTGRP: PERU
 http://181.176.172.66:9000/play/a02k
@@ -183,6 +183,9 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/305438
 #EXTINF:0,PANAMERICANA 4
 #EXTGRP: PERU
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070269
+#EXTINF:0,PANAMERICANA 5
+#EXTGRP: PERU
+http://177.234.230.226:8010/play/a02t
 #EXTINF:-1,ATV HD
 #EXTGRP: PERU
 http://161.132.108.74:50001/play/a02h
@@ -969,5 +972,6 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520854.mp4
 #EXTINF:-1,AGUILA O SOL
 #EXTGRP:CANTINFLAS
 http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520852.mp4
-#EXTINF:-1,
-#EXTGRP:CANTINFLAS
+#EXTINF:-1,MI MUSICA ROMANTICA
+#EXTGRP:PERU
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/playlist.m3u8
