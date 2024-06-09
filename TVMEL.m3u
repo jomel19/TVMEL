@@ -41,8 +41,8 @@ http://gotv.vip:8880/Kim1/Kim1/150201
 #EXTINF:-1,CDM TV HD
 #EXTGRP: TV CRISTIANA
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w335764602.m3u8
-#EXTINF:0,DOS KIDS HD
-http://45.160.12.253:8000/play/002
+#EXTINF:0,CANAL INFANTIL HD
+http://177.234.230.226:8010/play/a030
 #EXTINF:0,PLIM PLIM TV
 http://177.234.230.226:8010/play/a026
 #EXTINF:0,OVACIÓN
@@ -287,7 +287,7 @@ http://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/214521
 #EXTINF:0, NATIVA HD
 #EXTGRP: PERU
-https://servilive.com:3449/live/mlecaroslive.m3u8
+http://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0, NATIVA HD
 #EXTGRP: PERU
 http://gotv.vip:8880/Kim1/Kim1/146627
@@ -476,7 +476,7 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
 http://gotv.vip:8880/Kim1/Kim1/29641
 #EXTINF:-1,TyC Sports HD 
 #EXTGRP:DEPORTES INT
-http://177.53.153.20:8001/play/a03y
+http://177.53.153.20:8001/play/a0ze
 #EXTINF:-1,TyC Sports HD 
 #EXTGRP:DEPORTES INT
 http://190.119.178.46:8000/play/a018
@@ -614,13 +614,13 @@ http://gotv.vip:8880/Kim1/Kim1/229
 #EXTINF:0,MEGA HD
 http://177.53.153.20:8001/play/a035
 #EXTINF:0,CARACOL HD
-http://gotv.vip:8880/Kim1/Kim1/34
+http://177.234.230.226:8010/play/a00j
 #EXTINF:-1,Caracol HD
 http://177.53.153.20:8001/play/a04a
 #EXTINF:-1,Caracol HD 2
 http://181.119.66.30:8000/play/a04y
 #EXTINF:-1,RCN HD
-http://181.119.66.30:8000/play/a04h
+http://177.234.230.226:8010/play/a02r
 #EXTINF:-1,RCN HD
 http://177.53.153.20:8001/play/a0c4
 #EXTINF:-1,RCN HD
@@ -632,6 +632,10 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/181
 http://45.71.252.16:8000/play/a0b0/index.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://45.160.12.253:8000/play/052
+#EXTINF:-1,TELEFUTURO HD
+http://177.234.230.226:8010/play/a033
+#EXTINF:-1,BOLIVISION HD
+http://177.234.230.226:8010/play/a035
 #EXTINF:-1,MC
 http://177.53.153.20:8001/play/a07o
 #EXTINF:-1,CINE FAMILIAR
