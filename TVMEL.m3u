@@ -93,9 +93,9 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190628
 #EXTINF:0,L1 MAX 2 AC
 #EXTGRP:DEPORTES PERU
 http://190.119.178.46:8000/play/a00c
-#EXTINF:0,L1 MAX 3 K1
+#EXTINF:0,L1 MAX 3 
 #EXTGRP:DEPORTES PERU
-http://gotv.vip:8880/Kim1/Kim1/122387
+http://home-playtv.com:8080/CarlosAL/HBGWY/469158
 #EXTINF:0,L1 MAX 05
 #EXTGRP:DEPORTES PERU
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/206441
@@ -104,19 +104,19 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/206441
 http://offshore.lat:25461/emmacv0696/P20emmacv0696/304163
 #EXTINF:0,DSPORTS PE
 #EXTGRP:DEPORTES PERU
-http://191.97.58.41:8001/play/a02f
-#EXTINF:0,DSPORTS PE
+http://161.132.108.74:50001/play/a03o
+#EXTINF:0,DSPORTS 2 PE
 #EXTGRP:DEPORTES PERU
-http://190.119.178.46:8000/play/a03o
+http://161.132.108.74:50001/play/a03p
 #EXTINF:0,DSPORTS + PE
 #EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190736
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781
 #EXTINF:-1,GOLPERU HD 1
 #EXTGRP:DEPORTES PERU
-http://191.97.58.41:8001/play/a008
+http://mipriv.rebeldes.lat:8080/marcelocastilloca/md6yzCSGTE/126859
 #EXTINF:-1,GOLPERU HD 2
 #EXTGRP:DEPORTES PERU
-http://191.97.58.41:8001/play/a008
+http://161.132.108.74:50001/play/a01n
 #EXTINF:-1,GOLPERU HD 3
 #EXTGRP:DEPORTES PERU
 http://190.108.85.20:9999/play/a00r
@@ -128,7 +128,7 @@ http://177.53.153.20:8001/play/a03z
 http://177.53.153.20:8001/play/a0ca
 #EXTINF:-1,Movistar Deportes HD 2
 #EXTGRP:DEPORTES PERU
-http://190.108.85.20:9999/play/a022
+http://home-playtv.com:8080/CarlosAL/HBGWY/439746
 #EXTINF:-1,Movistar Deportes HD 3
 #EXTGRP:DEPORTES PERU
 http://161.132.108.74:50001/play/a01d
@@ -138,15 +138,12 @@ http://190.119.178.46:8000/play/a03j
 #EXTINF:-1,Latina HD
 #EXTGRP: PERU
 http://190.119.178.46:8000/play/a017
-#EXTINF:-1,EXITOSA HD
-#EXTGRP: PERU
-http://177.53.153.20:8001/play/a0b3
 #EXTINF:0, Latina HD
 #EXTGRP: PERU
 http://200.59.188.3:8000/play/a02m
 #EXTINF:0, Latina HD
 #EXTGRP: PERU
-http://gotv.vip:8880/Kim1/Kim1/691
+http://161.132.108.74:50001/play/a02a
 #EXTINF:-1, Latina HD
 #EXTGRP: PERU
 http://181.176.172.66:9000/play/a02l
@@ -161,7 +158,7 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/6723
 http://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:0, América TV HD
 #EXTGRP: PERU
-http://191.97.58.41:8001/play/a005
+http://161.132.108.74:50001/play/a02b
 #EXTINF:0, América TV HD
 #EXTGRP: PERU
 http://181.176.172.66:9000/play/a02k
@@ -178,9 +175,6 @@ http://181.176.172.66:9000/play/a037
 #EXTGRP: PERU
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/305438
 #EXTINF:0,PANAMERICANA 4
-#EXTGRP: PERU
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070269
-#EXTINF:0,PANAMERICANA 5
 #EXTGRP: PERU
 http://177.234.230.226:8010/play/a02t
 #EXTINF:-1,ATV HD
@@ -539,7 +533,7 @@ http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53VwNqSSMFHXzrcwmQk6kSTg
 http://177.53.153.20:8001/play/a040
 #EXTINF:0,ECDF
 #EXTGRP:DEPORTES INT
-http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/115998
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190736
 #EXTINF:-1,TNT Sports ARG HD
 #EXTGRP:DEPORTES INT
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190721
