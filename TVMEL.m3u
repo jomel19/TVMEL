@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Bethel HD
 #EXTGRP: TV CRISTIANA
-http://bantel.iptvperu.tv:1935/transcoderip/bethelmovil_t6.stream/playlist.m3u8
+http://177.53.153.20:8001/play/a0zt
 #EXTINF:-1,Bethel HD
 #EXTGRP: TV CRISTIANA
 http://190.119.178.46:8000/play/a03d
@@ -16,16 +16,16 @@ http://190.119.178.46:8000/play/a03m
 http://45.71.252.16:8000/play/a09n
 #EXTINF:-1,NUBEHTV 
 #EXTGRP: TV CRISTIANA
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+http://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 #EXTINF:-1,EBENEZER HD
 #EXTGRP: TV CRISTIANA
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53Xl09gffsysdHgTxT-uyYiI
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1426114740_b3128000.m3u8
+#EXTINF:-1,TELEBENDICION HD
+#EXTGRP: TV CRISTIANA
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 #EXTINF:-1,SUBLIME GRACIA HD
 #EXTGRP: TV CRISTIANA
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TV GRACIA HD
-#EXTGRP: TV CRISTIANA
-http://gotv.vip:8880/Kim1/Kim1/150205
 #EXTINF:-1,CRISTIANA TV  HD
 #EXTGRP: TV CRISTIANA
 http://stmv2.voxtvhd.com.br/cristianatv/cristianatv/playlist.m3u8
@@ -35,9 +35,6 @@ http://200.59.188.3:8000/play/a09g
 #EXTINF:-1,RHEMA TV
 #EXTGRP: TV CRISTIANA
 http://201.159.113.219:49000/play/a04d
-#EXTINF:-1,VOZ DE PODER
-#EXTGRP: TV CRISTIANA
-http://gotv.vip:8880/Kim1/Kim1/150201
 #EXTINF:-1,CDM TV HD
 #EXTGRP: TV CRISTIANA
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w335764602.m3u8
