@@ -595,23 +595,52 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/372029
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/163556
 #EXTINF:-1,CANAL 5 MEX
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53bt5coeAN1q-QZmemqNLlXo
+#EXTINF:-1,CANAL 5 MEX
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707755
+#EXTINF:-1,AZTECA 7 MEX
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707754
+#EXTINF:-1,EL 4
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707502
+#EXTINF:-1,UNIVISION 
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707505
+#EXTINF:-1,UNIVISION 2
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707504
+#EXTINF:-1TUDN
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707506
+#EXTINF:-1,DSPORTS 
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707520
+#EXTINF:-1,D SPORTS 
+#EXTGRP:CA
+http://moontools.me:8080/aleX674c5/soliZ35/1707879
 #EXTINF:-1,CANAL 13 HD
+#EXTGRP:CA
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/147753
 #EXTINF:-1,CHV HD
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/55272
 #EXTINF:-1,CHV HD
+#EXTGRP:CA
 http://home-playtv.com:8080/CarlosAL/HBGWY/77116
 #EXTINF:-1,CHV HD
+#EXTGRP:CA
 http://45.71.252.16:8000/play/a0ib
 #EXTINF:0,MEGA HD
 http://177.53.153.20:8001/play/a035
 #EXTINF:0,CARACOL HD
 http://home-playtv.com:8080/CarlosAL/HBGWY/46257
+#EXTGRP:CA
 #EXTINF:0,CARACOL HD
 http://177.234.230.226:8010/play/a00j
 #EXTINF:-1,Caracol HD
 http://177.53.153.20:8001/play/a04a
 #EXTINF:-1,Caracol HD 2
+#EXTGRP:CA
 http://home-playtv.com:8080/CarlosAL/HBGWY/190520
 #EXTINF:-1,RCN HD
 http://177.234.230.226:8010/play/a02r
