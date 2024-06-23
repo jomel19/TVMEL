@@ -592,27 +592,34 @@ http://161.132.108.74:50001/play/a01i
 #EXTGRP:DEPORTES INT
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/372029
 #EXTINF:-1,CANAL 5 MEX
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/163556
+http://cdn1host.online:2999/chile1255/mc38D38BOz/1457
 #EXTINF:-1,CANAL 5 MEX
+#EXTGRP:CA
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53bt5coeAN1q-QZmemqNLlXo
 #EXTINF:-1,CANAL 5 MEX
 #EXTGRP:CA
-http://moontools.me:8080/aleX674c5/soliZ35/1707755
+http://moontools.me:8080/aleX674c5/soliZ35/1595635
 #EXTINF:-1,AZTECA 7 MEX
 #EXTGRP:CA
-http://moontools.me:8080/aleX674c5/soliZ35/1707754
+http://moontools.me:8080/aleX674c5/soliZ35/1595636
 #EXTINF:-1,EL 4
 #EXTGRP:CA
 http://moontools.me:8080/aleX674c5/soliZ35/1707502
+#EXTINF:-1,EL 4.1
+#EXTGRP:CA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165214
 #EXTINF:-1,UNIVISION 
 #EXTGRP:CA
-http://moontools.me:8080/aleX674c5/soliZ35/1707505
+http://moontools.me:8080/aleX674c5/soliZ35/1165034
 #EXTINF:-1,UNIVISION 2
 #EXTGRP:CA
-http://moontools.me:8080/aleX674c5/soliZ35/1707504
-#EXTINF:-1TUDN
+http://moontools.me:8080/aleX674c5/soliZ35/1202007
+#EXTINF:-1,TUDN
 #EXTGRP:CA
 http://moontools.me:8080/aleX674c5/soliZ35/1707506
+#EXTINF:-1,TUDN
+#EXTGRP:CA
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158848
 #EXTINF:-1,DSPORTS 
 #EXTGRP:CA
 http://moontools.me:8080/aleX674c5/soliZ35/1707520
@@ -622,8 +629,6 @@ http://moontools.me:8080/aleX674c5/soliZ35/1707879
 #EXTINF:-1,CANAL 13 HD
 #EXTGRP:CA
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/147753
-#EXTINF:-1,CHV HD
-http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/55272
 #EXTINF:-1,CHV HD
 #EXTGRP:CA
 http://home-playtv.com:8080/CarlosAL/HBGWY/77116
@@ -664,6 +669,8 @@ http://177.234.230.226:8010/play/a02d
 http://177.234.230.226:8010/play/a02s
 #EXTINF:0,EL LIDER HN
 http://home-playtv.com:8080/CarlosAL/HBGWY/469060
+#EXTINF:0,EL LIDER HN 2
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159444
 #EXTINF:0,TELETICA
 http://home-playtv.com:8080/CarlosAL/HBGWY/35874
 #EXTINF:-1,EURONEWS HD
