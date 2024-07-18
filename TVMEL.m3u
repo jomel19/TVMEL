@@ -442,32 +442,18 @@ http://161.132.108.74:50001/play/a02p
 #EXTINF:-1,ESPN PREMIUM HD
 #EXTGRP:PACK ESPN
 http://190.116.90.43:8000/play/a00u
-#EXTINF:-1,ESPN PREMIUM HD
-#EXTGRP:PACK ESPN
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53T4HL2EUYRmOjNxkPUrMLkU
 #EXTINF:-1,ESPN 2 MX HD 2
 #EXTGRP:PACK ESPN
 http://home-playtv.com:8080/CarlosAL/HBGWY/19485
-#EXTINF:-1,ESPN 2 HD MX
-#EXTGRP:PACK ESPN
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53YsZs1FabWx4D8iqMzCG0sM
-#EXTINF:-1,Fox Sports ARG HD
-#EXTGRP:PACK FOX SPORTS
-http://gotv.vip:8880/Kim1/Kim1/65642
 #EXTINF:-1,Fox Sports 2 ARG HD
 #EXTGRP:PACK FOX SPORTS
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/272047
 #EXTINF:-1,Fox Sports MX HD
 #EXTGRP:PACK FOX SPORTS
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/392042
-#EXTGRP:PACK FOX SPORTS
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
 #EXTINF:-1,Fox Sports MX HD
 #EXTGRP:PACK FOX SPORTS
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190645
-#EXTINF:-1,Fox Sports PREMIUM MX HD
-#EXTGRP:PACK FOX SPORTS
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53TIRFLgwolRnNqYbxzWIUo4
 #EXTINF:-1,Fox Sports PREMIUM HD
 #EXTGRP:PACK FOX SPORTS
 http://home-playtv.com:8080/CarlosAL/HBGWY/158454
@@ -489,9 +475,6 @@ http://home-playtv.com:8080/CarlosAL/HBGWY/310516
 #EXTINF:0,DSports 
 #EXTGRP:PACK D'SPORTS
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777
-#EXTINF:0,DSPORTS
-#EXTGRP:PACK D'SPORTS
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/589308
 #EXTINF:0,DSPORTS 
 #EXTGRP:PACK D'SPORTS
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777
@@ -501,9 +484,6 @@ http://38.43.151.206:8000/play/a04m
 #EXTINF:0,DSPORTS 2
 #EXTGRP:PACK D'SPORTS
 http://home-playtv.com:8080/CarlosAL/HBGWY/456660
-#EXTINF:0,DSPORTS 2
-#EXTGRP:PACK D'SPORTS
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/589309
 #EXTINF:0,DSPORTS 2
 #EXTGRP:PACK D'SPORTS
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330779
@@ -516,9 +496,6 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374665
 #EXTINF:0,BEIN SPORTS EXTRA
 #EXTGRP:DEPORTES INT
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/201673
-#EXTINF:0,BEIN SPORTS ENG
-#EXTGRP:DEPORTES INT
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/585442
 #EXTINF:0,BEIN SPORTS EXTRA
 #EXTGRP:DEPORTES INT
 http://200.59.188.3:8000/play/a0cm
@@ -537,9 +514,6 @@ http://home-playtv.com:8080/CarlosAL/HBGWY/456664
 #EXTINF:0,BAND SPORTS HD
 #EXTGRP:DEPORTES INT
 http://home-playtv.com:8080/CarlosAL/HBGWY/48534
-#EXTINF:0,ADRENALINA SPORTS
-#EXTGRP:DEPORTES INT
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53VwNqSSMFHXzrcwmQk6kSTg
 #EXTINF:0,ECDF
 #EXTGRP:DEPORTES INT
 http://177.53.153.20:8001/play/a040
@@ -713,13 +687,13 @@ http://181.78.78.105:8000/play/a0jp
 #EXTINF:-1,D PELICULA
 http://181.78.78.105:8000/play/a023
 #EXTINF:-1,HBO HD
-http://190.119.178.46:8000/play/a00v
-#EXTINF:-1,HBO 2 HD
-http://190.119.178.46:8000/play/a010
+http://38.43.151.206:8000/play/a056
+#EXTINF:-1,HBO2 HD
+http://38.43.151.206:8000/play/a05c
 #EXTINF:-1,HBO FAMILY HD
-http://190.119.178.46:8000/play/a02n
+http://38.43.151.206:8000/play/a02s
 #EXTINF:-1,HBO EXTREME HD
-http://190.119.178.46:8000/play/a01h
+http://38.43.151.206:8000/play/a02t
 #EXTINF:-1,A&E HD
 http://190.61.55.186:1010/play/a01f/index.m3u8
 #EXTINF:-1,AMC HD
@@ -911,36 +885,15 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177126
 #EXTINF:-1,El Chapulin Colorado 24/7
 #EXTGRP:24/7
 http://home-playtv.com:8080/CarlosAL/HBGWY/177376
-#EXTINF:-1,Cero en conducta 24/7
-#EXTGRP:24/7
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039713
-#EXTINF:-1,Dragon Ball Super 25/7
-#EXTGRP:24/7
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039748
-#EXTINF:-1,Dragon Ball Kai 24/7
-#EXTGRP:24/7
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039749
-#EXTINF:-1,Dragon ball 24/7
-#EXTGRP:24/7
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039750
 #EXTINF:-1,Candy Candy 24/7
 #EXTGRP:24/7
 http://home-playtv.com:8080/CarlosAL/HBGWY/177094 
-#EXTINF:-1,Capitan Tsubasa 24/7
-#EXTGRP:24/7
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039754
 #EXTINF:-1,Capitan Tsubasa 24/7
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/2193
 #EXTINF:-1,Capitan Tsubasa 24/7
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/4798
-#EXTINF:-1,El show del Pajaro Loco 24/7
-#EXTGRP:24/7
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039758
-#EXTINF:-1,Los Padrinos Magicos 24/7
-#EXTGRP:24/7
-http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039771
 #EXTINF:-1,Cantinflas
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1020
@@ -1025,6 +978,3 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520854.mp4
 #EXTINF:-1,AGUILA O SOL
 #EXTGRP:CANTINFLAS
 http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520852.mp4
-#EXTINF:-1,MI MUSICA ROMANTICA
-#EXTGRP:PERU
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/playlist.m3u8
