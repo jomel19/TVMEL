@@ -104,7 +104,7 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/206441
 http://offshore.lat:25461/emmacv0696/P20emmacv0696/304163
 #EXTINF:0,DSPORTS PE
 #EXTGRP:DEPORTES PERU
-http://home-playtv.com:8080/CarlosAL/HBGWY/469393
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/248240
 #EXTINF:0,DSPORTS 2 PE
 #EXTGRP:DEPORTES PERU
 http://home-playtv.com:8080/CarlosAL/HBGWY/310536
@@ -322,6 +322,24 @@ http://home-playtv.com:8080/CarlosAL/HBGWY/469064
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53VCmgLf4mKQkDw3skq07Hjo
 #EXTINF:0,UNIMAS MIAMI
 http://mipriv.rebeldes.lat:8080/marcelocastilloca/md6yzCSGTE/208840
+#EXTINF:-1,CLARO SPORTS 1
+#EXTGRP:JJOO
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247840
+#EXTINF:-1,CLARO SPORTS 2
+#EXTGRP:JJOO
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247841
+#EXTINF:-1,CLARO SPORTS 3
+#EXTGRP:JJOO
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247842
+#EXTINF:-1,CLARO SPORTS 4
+#EXTGRP:JJOO
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247843
+#EXTINF:-1,CLARO SPORTS 
+#EXTGRP:JJOO
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190634
+#EXTINF:-1,EUROSPORT 
+#EXTGRP:DEPORTES INT
+http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/110179.ts
 #EXTINF:-1,ESPN HD PE
 #EXTGRP:PACK ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
