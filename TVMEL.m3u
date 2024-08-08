@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Bethel HD
 #EXTGRP: TV CRISTIANA
-http://177.53.153.20:8001/play/a0zt
+http://45.173.201.50:4000/play/a058
 #EXTINF:-1,Bethel HD
 #EXTGRP: TV CRISTIANA
 http://190.119.178.46:8000/play/a03d
@@ -47,7 +47,7 @@ http://live.obslivestream.com/cdeportivo/index.m3u8
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330757
 #EXTINF:0,L1 HD
 #EXTGRP:DEPORTES PERU
-http://home-playtv.com:8080/CarlosAL/HBGWY/478009
+http://45.173.201.50:4000/play/a09d
 #EXTINF:-1,L1 MAX NOU
 #EXTGRP:DEPORTES PERU
 http://tv.nousiptv.com:8080/sebaalv3z7/patr1c1a/1151341
@@ -57,6 +57,9 @@ http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/330755.ts
 #EXTINF:-1,L1 MAX HD
 #EXTGRP:DEPORTES PERU
 http://38.43.151.206:8000/play/a069
+#EXTINF:-1,L1 MAX HD ENER
+#EXTGRP:DEPORTES PERU
+http://45.173.201.50:4000/play/a07f
 #EXTINF:-1,L1 MAX 
 #EXTGRP:DEPORTES PERU
 http://justtplay.com:8880/Polo/Polo/1174
