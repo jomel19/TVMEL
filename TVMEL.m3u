@@ -42,6 +42,12 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:0,CONTACTO DEPORTIVO
 #EXTGRP: PERU
 http://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:0,MATICES TV
+#EXTGRP: PERU
+http://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:0,MATICES TV
+#EXTGRP: PERU
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:0,L1 HD
 #EXTGRP:DEPORTES PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330757
@@ -62,34 +68,28 @@ http://38.43.151.206:8000/play/a069
 http://45.173.201.50:4000/play/a07f
 #EXTINF:-1,L1 MAX 
 #EXTGRP:DEPORTES PERU
-http://justtplay.com:8880/Polo/Polo/1174
-#EXTINF:-1,L1 MAX CLARO 
+http://offshore.lat:25461/emmacv0696/P20emmacv0696/304162
+#EXTINF:-1,L1 MAX REG
 #EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/343657
-#EXTINF:-1,L1 MAX CLARO 
+http://tv.nousiptv.com:8080/sebaalv3z7/patr1c1a/1151342
+#EXTINF:-1,L1 MAX NEW
 #EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/90668
+http://teletv.xyz:8080/RosarioGarcia00/PjZb3frumV/280643
 #EXTINF:-1,LIGA 1 MAX
 #EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/207701
-#EXTINF:-1,L1 MAX SAT
+http://acd.mine.nu:8000/5ZBDyR5s6y/W4kr7VGHsj/470609
+#EXTINF:-1,L1 MAX 00322
 #EXTGRP:DEPORTES PERU
 http://00322.xyz:8000/live/luzmejia/JJCP6Q6/159941.ts
-#EXTINF:0,L1 MAX 05
+#EXTINF:0,L1 MAX GALAXY
 #EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190617
+http://galaxypro.online:8080/live/josenunez/JoseNunez01/103257.m3u8
 #EXTINF:0,L1 MAX DP
 #EXTGRP:DEPORTES PERU
 http://tv.soccerplus.link:8000/carloscedeno/11223344/92406
 #EXTINF:0,L1 MAX 05
 #EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/156210
-#EXTINF:0,L1 MAX 1 DS
-#EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190628
-#EXTINF:0,L1 MAX 05
-#EXTGRP:DEPORTES PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/206441
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:0,DSPORTS PE
 #EXTGRP:DEPORTES PERU
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/248240
