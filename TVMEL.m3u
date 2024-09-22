@@ -45,9 +45,6 @@ http://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:0,MATICES TV
 #EXTGRP: PERU
 http://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
-#EXTINF:0,MATICES TV
-#EXTGRP: PERU
-https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:0,L1 HD
 #EXTGRP:DEPORTES PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330757
@@ -84,12 +81,12 @@ http://00322.xyz:8000/live/luzmejia/JJCP6Q6/159941.ts
 #EXTINF:0,L1 MAX GALAXY
 #EXTGRP:DEPORTES PERU
 http://galaxypro.online:8080/live/josenunez/JoseNunez01/103257.m3u8
-#EXTINF:0,L1 MAX DP
+#EXTINF:0,L1 MAX LATINO
 #EXTGRP:DEPORTES PERU
-http://tv.soccerplus.link:8000/carloscedeno/11223344/92406
-#EXTINF:0,L1 MAX 05
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/207701
+#EXTINF:0,L1 MAX ULTRA
 #EXTGRP:DEPORTES PERU
-https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/14827
 #EXTINF:0,DSPORTS PE
 #EXTGRP:DEPORTES PERU
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/248240
@@ -107,19 +104,19 @@ http://38.43.151.206:8000/play/a036
 http://190.61.55.186:1010/play/a010
 #EXTINF:-1,GOLPERU HD 3
 #EXTGRP:DEPORTES PERU
-http://181.176.172.66:9000/play/a02m
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/308
 #EXTINF:-1,GOLPERU HD 4
 #EXTGRP:DEPORTES PERU
-http://mipriv.rebeldes.lat:8080/marcelocastilloca/md6yzCSGTE/126859
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/272049
 #EXTINF:-1,Movistar Deportes HD 1
 #EXTGRP:DEPORTES PERU
 http://38.43.151.206:8000/play/a02z
 #EXTINF:-1,Movistar Deportes HD 2
 #EXTGRP:DEPORTES PERU
-http://home-playtv.com:8080/CarlosAL/HBGWY/439746
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/304
 #EXTINF:-1,Movistar Deportes HD 3
 #EXTGRP:DEPORTES PERU
-http://161.132.108.74:50001/play/a01d
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/206443
 #EXTINF:-1,Movistar Deportes HD 4
 #EXTGRP:DEPORTES PERU
 http://190.61.55.186:1010/play/a00q
@@ -300,13 +297,15 @@ http://45.71.252.16:8000/play/a0im
 #EXTINF:0,DISTRITO COMEDIA
 http://161.132.108.74:50001/play/a04h
 #EXTINF:0,DISTRITO COMEDIA
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/340918
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/471134
 #EXTINF:0,DISTRITO COMEDIA
-http://home-playtv.com:8080/CarlosAL/HBGWY/469064
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/59454
 #EXTINF:0,UNIMAS 
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53VCmgLf4mKQkDw3skq07Hjo
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22978
 #EXTINF:0,UNIMAS MIAMI
-http://mipriv.rebeldes.lat:8080/marcelocastilloca/md6yzCSGTE/208840
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22991
+#EXTINF:0,UNIMAS MIAMI
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22980
 #EXTINF:-1,CLARO SPORTS 1
 #EXTGRP:JJOO
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247840
@@ -319,9 +318,6 @@ http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247842
 #EXTINF:-1,CLARO SPORTS 4
 #EXTGRP:JJOO
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247843
-#EXTINF:-1,CLARO SPORTS 
-#EXTGRP:JJOO
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190634
 #EXTINF:-1,EUROSPORT 
 #EXTGRP:DEPORTES INT
 http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/110179.ts
@@ -861,70 +857,40 @@ http://190.61.55.186:1010/play/a01h/index.m3u8
 #EXTINF:-1,Win Sports
 #EXTGRP:DEPORTES INT
 http://190.61.55.186:1010/play/a02r/index.m3u8
-#EXTINF:-1,La Familia Peluche
-#EXTGRP:24/7
-http://home-playtv.com:8080/CarlosAL/HBGWY/107929
-#EXTINF:-1, El Chavo Del 8
+#EXTINF:-1, El Chavo Del 8 F
 #EXTGRP:24/7
 http://home-playtv.com:8080/marcelalopez/CHXRH/216295
-#EXTINF:-1, El Chavo Del 8
+#EXTINF:-1, El Chavo Del 8 F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1263
-#EXTINF:-1, El Chavo Del 8
+#EXTINF:-1, CHESPIRITO F
 #EXTGRP:24/7
-http://home-playtv.com:8080/CarlosAL/HBGWY/216295
-#EXTINF:-1, LOS PICAPIEDRAS
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/304514
+#EXTINF:-1, LOS PICAPIEDRAS F
 #EXTGRP:24/7
 http://home-playtv.com:8080/marcelalopez/CHXRH/177126
-#EXTINF:-1,El Chapulin Colorado 24/7
-#EXTGRP:24/7
-http://home-playtv.com:8080/CarlosAL/HBGWY/177376
-#EXTINF:-1,Candy Candy 24/7
-#EXTGRP:24/7
-http://home-playtv.com:8080/CarlosAL/HBGWY/177094 
-#EXTINF:-1,Capitan Tsubasa 24/7
+#EXTINF:-1,Capitan Tsubasa 24/7 F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/2193
-#EXTINF:-1,Capitan Tsubasa 24/7
-#EXTGRP:24/7
-http://disfruta.net:80/1020384/NnAQhsFApU/4798
-#EXTINF:-1,Cantinflas
+#EXTINF:-1,Cantinflas F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1020
-#EXTINF:-1,CHAPARRAL
-#EXTGRP:24/7
-http://home-playtv.com:8080/CarlosAL/HBGWY/217386
-#EXTINF:-1,POPEYE
-#EXTGRP:24/7
-http://home-playtv.com:8080/CarlosAL/HBGWY/219234
-#EXTINF:-1,CINE MARVEL
-#EXTGRP:24/7
-http://home-playtv.com:8080/CarlosAL/HBGWY/177333
-#EXTINF:-1, Cinema PPV2
-#EXTGRP:24/7
-http://disfruta.net:80/1020384/NnAQhsFApU/1056
-#EXTINF:-1, Cinema PPV3
-#EXTGRP:24/7
-http://disfruta.net:80/1020384/NnAQhsFApU/1057
-#EXTINF:-1,Looney Tones
+#EXTINF:-1,Looney Tones F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1479
-#EXTINF:-1,Caballeros del Z
+#EXTINF:-1,Caballeros del Z F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/2611
 #EXTINF:-1,Tom y jerry
 #EXTGRP:24/7
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374769
-#EXTINF:-1,Tom y jerry
-#EXTGRP:24/7
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
-#EXTINF:-1,Tom y jerry
+#EXTINF:-1,Tom y jerry F
 #EXTGRP:24/7
 http://home-playtv.com:8080/marcelalopez/CHXRH/108027
-#EXTINF:-1, Pajaro Loco
+#EXTINF:-1, Pajaro Loco F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1917
-#EXTINF:-1, La Vaca y El Pollo
+#EXTINF:-1, La Vaca y El Pollo F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/4785
 #EXTINF:-1, ANIMANIACS
@@ -939,10 +905,10 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374754
 #EXTINF:-1,ED, EDD Y EDDY
 #EXTGRP:24/7
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374756
-#EXTINF:-1,JORGE EL CUERIOSO
+#EXTINF:-1,JORGE EL CURIOSO
 #EXTGRP:24/7
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374762
-#EXTINF:-1,CORRECAMINOS
+#EXTINF:-1,CORRECAMINOS F
 #EXTGRP:24/7
 http://home-playtv.com:8080/marcelalopez/CHXRH/216294
 #EXTINF:-1,SI YO FUERA DIPUTADO
@@ -972,3 +938,45 @@ http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520854.mp4
 #EXTINF:-1,AGUILA O SOL
 #EXTGRP:CANTINFLAS
 http://home-playtv.com:8080/movie/marcelalopez/CHXRH/520852.mp4
+#EXTINF:-1, Cinema PPV2
+#EXTGRP:24/7
+http://disfruta.net:80/1020384/NnAQhsFApU/1056
+#EXTINF:-1, Cinema PPV3
+#EXTGRP:24/7
+http://disfruta.net:80/1020384/NnAQhsFApU/1057
+#EXTINF:-1,MOVISTAR",ALQUILER 1
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290782
+#EXTINF:-1,MOVISTAR",ALQUILER 2
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290783
+#EXTINF:-1,MOVISTAR",ALQUILER 4
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290785
+#EXTINF:-1,MOVISTAR",ALQUILER 5
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290786
+#EXTINF:-1,Pluto TV Dramas Coreanos
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/291169
+#EXTINF:-1, MOVISTAR SERIES HD.
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290773
+#EXTINF:-1,MOVISTAR COMEDIA HD.
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290774
+#EXTINF:-1,MOVISTAR DISNEY + HD
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290775
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD.
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290776
+#EXTINF:-1,MOVISTAR DRAMA HD.
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290777
+#EXTINF:-1,MOVISTAR ACCI©N HD.
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/290780
+#EXTINF:-1,LOS SINSOMPS
+http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/368644
+#EXTINF:-1,HEY ARNOLD
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/62355
+#EXTINF:-1,DON GATO
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/62356
+#EXTINF:-1,DRAGON BALL
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/62357
+#EXTINF:-1,CANTINFLAS
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/62361
+#EXTINF:-1,HUMOR ES LOS COMEDIANTES
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/62416
+#EXTINF:-1,CERO EN CONDUCTA
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/62417
