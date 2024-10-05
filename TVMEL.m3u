@@ -61,7 +61,7 @@ http://38.43.151.206:8000/play/a069
 http://190.119.123.220:4000/play/liga1max/index.m3u8
 #EXTINF:-1,L1 MAX HD OC
 #EXTGRP:DEPORTES PERU
-http://187.102.208.83:50000/play/a02c/index.m3u8
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/190634
 #EXTINF:-1,L1 MAX 
 #EXTGRP:DEPORTES PERU
 http://offshore.lat:25461/emmacv0696/P20emmacv0696/304162
@@ -151,7 +151,7 @@ http://181.176.172.66:9000/play/a02k
 http://167.250.135.246:81/play/a098
 #EXTINF:0, America TV HD 
 #EXTGRP: PERU
-http://187.102.208.83:50000/play/a013/index.m3u8
+http://190.119.123.220:4000/play/a03a
 #EXTINF:0, America TV HD
 #EXTGRP: PERU
 http://38.43.151.206:8000/play/a033
@@ -166,10 +166,7 @@ http://181.176.172.66:9000/play/a037
 http://38.43.151.206:8000/play/a063
 #EXTINF:0,PANAMERICANA 4
 #EXTGRP: PERU
-http://177.234.230.226:8010/play/a02t
-#EXTINF:0,PANAMERICANA 5
-#EXTGRP: PERU
-http://mipriv.rebeldes.lat:8080/marcelocastilloca/md6yzCSGTE/267162
+http://190.119.123.220:4000/play/a03a
 #EXTINF:-1,ATV HD
 #EXTGRP: PERU
 http://181.176.172.66:9000/play/a03b
@@ -202,7 +199,7 @@ http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/330743.ts
 http://187.102.208.83:50000/play/a035
 #EXTINF:0,EXITOSA HD
 #EXTGRP: PERU
-http://190.119.178.46:8000/play/a0b3
+http://190.119.123.220:4000/play/exitosa/index.m3u8
 #EXTINF:0,PBO HD
 #EXTGRP: PERU
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
@@ -241,7 +238,7 @@ http://181.176.172.66:9000/play/a03a
 http://38.43.151.206:8000/play/a06c
 #EXTINF:0,CANAL N HD
 #EXTGRP: PERU
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/167
+http://190.119.123.220:4000/play/a02h
 #EXTINF:0,CANAL N HD
 #EXTGRP: PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330724
@@ -305,18 +302,6 @@ http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22978
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22991
 #EXTINF:0,UNIMAS MIAMI
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22980
-#EXTINF:-1,CLARO SPORTS 1
-#EXTGRP:JJOO
-http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247840
-#EXTINF:-1,CLARO SPORTS 2
-#EXTGRP:JJOO
-http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247841
-#EXTINF:-1,CLARO SPORTS 3
-#EXTGRP:JJOO
-http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247842
-#EXTINF:-1,CLARO SPORTS 4
-#EXTGRP:JJOO
-http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247843
 #EXTINF:-1,EUROSPORT 
 #EXTGRP:DEPORTES INT
 http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/110179.ts
@@ -505,7 +490,7 @@ http://home-playtv.com:8080/CarlosAL/HBGWY/456664
 http://home-playtv.com:8080/CarlosAL/HBGWY/48534
 #EXTINF:0,ECDF
 #EXTGRP:DEPORTES INT
-http://177.53.153.20:8001/play/a040
+http://190.119.123.220:4000/play/a01x
 #EXTINF:0,ECDF
 #EXTGRP:DEPORTES INT
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190736
@@ -547,10 +532,10 @@ http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/339740.ts
 http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/339736.ts
 #EXTINF:-1,Win Sports HD
 #EXTGRP:DEPORTES INT
-http://190.61.55.186:1010/play/a01m
+http://190.119.123.220:4000/play/a04e
 #EXTINF:-1,Win Sports+ HD
 #EXTGRP:DEPORTES INT
-http://190.61.55.186:1010/play/a00n
+http://190.119.123.220:4000/play/a038
 #EXTINF:-1,Win Sports HD
 #EXTGRP:DEPORTES INT
 http://38.43.140.97:8000/play/a03s
@@ -559,7 +544,7 @@ http://38.43.140.97:8000/play/a03s
 http://38.43.140.97:8000/play/a01f
 #EXTINF:-1,Win Sports+ HD
 #EXTGRP:DEPORTES INT
-http://177.53.153.20:8001/play/a03j
+http://190.119.123.220:4000/play/a04e
 #EXTINF:-1,Win Sports+ HD
 #EXTGRP:DEPORTES INT
 http://190.61.57.2:1010/play/a03z
@@ -569,25 +554,13 @@ http://181.176.172.66:9000/play/a02h
 #EXTINF:-1,GolTV HD
 #EXTGRP:DEPORTES INT
 http://161.132.108.74:50001/play/a01i
-#EXTINF:-1,VAMOS HD
-#EXTGRP:DEPORTES INT
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/372029
-#EXTINF:-1,PREMIERE 1 HD
-#EXTGRP:DEPORTES INT
-http://home-playtv.com:8080/CarlosAL/HBGWY/56720
-#EXTINF:-1,CANAL 5 MEX
-http://cdn1host.online:2999/chile1255/mc38D38BOz/1457
 #EXTINF:-1,CANAL 5 MEX
 http://moontools.me:8080/aleX674c5/soliZ35/1595635
 #EXTINF:-1,AZTECA 7 MEX
 http://moontools.me:8080/aleX674c5/soliZ35/1595636
-#EXTINF:-1,EL 4
-http://moontools.me:8080/aleX674c5/soliZ35/1707502
-#EXTINF:-1,EL 4.1
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165214
-#EXTINF:-1,UNIVISION 
+#EXTINF:-1,TUDN
 http://moontools.me:8080/aleX674c5/soliZ35/1165034
-#EXTINF:-1,UNIVISION 2
+#EXTINF:-1,TUDN 2
 http://moontools.me:8080/aleX674c5/soliZ35/1202007
 #EXTINF:-1,TUDN
 http://moontools.me:8080/aleX674c5/soliZ35/1707506
@@ -597,64 +570,70 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158848
 http://moontools.me:8080/aleX674c5/soliZ35/1707520
 #EXTINF:-1,D SPORTS 
 http://moontools.me:8080/aleX674c5/soliZ35/1707879
-#EXTINF:-1,FUTV HD
-http://home-playtv.com:8080/CarlosAL/HBGWY/182882
-#EXTINF:-1,TIGO SPORTS HD
-http://home-playtv.com:8080/CarlosAL/HBGWY/182881
-#EXTINF:-1,TD+
-http://home-playtv.com:8080/CarlosAL/HBGWY/11035
-#EXTINF:-1,TD+ 2
-http://home-playtv.com:8080/CarlosAL/HBGWY/48634
-#EXTINF:-1,TELETICA
-http://home-playtv.com:8080/CarlosAL/HBGWY/177391
 #EXTINF:-1,CANAL 13 HD
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/147753
+http://190.119.123.220:4000/play/a01y
 #EXTINF:-1,CHV HD
-http://home-playtv.com:8080/CarlosAL/HBGWY/77116
+http://190.119.123.220:4000/play/a00l
 #EXTINF:-1,CHV HD
-http://45.71.252.16:8000/play/a0ib
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr_6NEM41IY_hvaqQIjIkqIw/ts
 #EXTINF:0,MEGA HD
-http://177.53.153.20:8001/play/a035
-#EXTINF:0,CARACOL HD
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr85EvcStGQSfcX0vVp53Mxz/ts
+#EXTINF:1,TVN
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8qXsvwqZrRWTlXxEhuY9Y8/ts
+#EXTINF:1,ZAPPING SPORTS CHILE
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8CsYr8a2LfNaME-13dZA6l/ts
+#EXTINF:1,CARACOL HD
 http://home-playtv.com:8080/marcelalopez/CHXRH/167983
-#EXTINF:0,CARACOL HD
-http://177.234.230.226:8010/play/a00j
+#EXTINF:1,CARACOL HD
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/11
+#EXTINF:1,CARACOL HD
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8NPBxHiYm7aB9K8iVLKRa9/ts
 #EXTINF:-1,Caracol HD
-http://177.53.153.20:8001/play/a04a
-#EXTINF:-1,Caracol HD 2
-http://home-playtv.com:8080/CarlosAL/HBGWY/190520
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8xqya_Qebo1pPAvmnNPVtD/ts
 #EXTINF:-1,RCN HD
-http://177.234.230.226:8010/play/a02r
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr_NfLZuunMB5Px2WcvLU9Dm/ts
 #EXTINF:-1,RCN HD
-http://177.53.153.20:8001/play/a0c4
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/60780
 #EXTINF:-1,RCN HD
-http://177.53.153.20:8001/play/a0c4
-#EXTINF:0,BOLIVISION
-http://177.234.230.226:8010/play/a035
+http://home-playtv.com:8080/marcelalopez/CHXRH/12847
+#EXTINF:0,BOLIVIA TV
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/340029
+#EXTINF:0,UNITEL HD BOL
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/340004
 #EXTINF:0,ECUADOR TV
-http://177.234.230.226:8010/play/a02c
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr_pVBQXprroB1O57tG8-Ejb/ts
 #EXTINF:0,ECUAVISA
-http://177.234.230.226:8010/play/a02b
+http://home-playtv.com:8080/marcelalopez/CHXRH/118049
+#EXTINF:0,ECUAVISA
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/227
 #EXTINF:0,TELEAMAZONAS HD
-http://177.234.230.226:8010/play/a02h
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/212
 #EXTINF:0,TVC EC
-http://177.234.230.226:8010/play/a028
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/459250
 #EXTINF:0,GAMAVISION
-http://177.234.230.226:8010/play/a02d
+http://home-playtv.com:8080/marcelalopez/CHXRH/12868
 #EXTINF:0,EL TRECE ARG
-http://177.234.230.226:8010/play/a02s
+http://home-playtv.com:8080/marcelalopez/CHXRH/286050
+#EXTINF:0,TV PUBLICA
+http://home-playtv.com:8080/marcelalopez/CHXRH/46972
+#EXTINF:0,AMERICA ARG
+http://home-playtv.com:8080/marcelalopez/CHXRH/209741
 #EXTINF:0,EL LIDER HN
-http://home-playtv.com:8080/CarlosAL/HBGWY/469060
-#EXTINF:0,EL LIDER HN 2
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159444
+http://home-playtv.com:8080/marcelalopez/CHXRH/167610
 #EXTINF:0,TELETICA
-http://home-playtv.com:8080/CarlosAL/HBGWY/35874
+http://home-playtv.com:8080/marcelalopez/CHXRH/35874
+#EXTINF:0,TD+
+http://home-playtv.com:8080/marcelalopez/CHXRH/11035
+#EXTINF:0,TD+ 2
+http://home-playtv.com:8080/marcelalopez/CHXRH/48634
 #EXTINF:-1,EURONEWS HD
 http://177.234.230.226:8010/play/a03k
 #EXTINF:-1,RT NOTICIAS
-http://177.234.230.226:8010/play/a03l
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr_tGRImXIuKl4grXmfS6YkW/ts
 #EXTINF:-1,FRANCE 24
-http://38.43.151.206:8000/play/a05w
+http://home-playtv.com:8080/marcelalopez/CHXRH/185199
+#EXTINF:-1,CNN EN ESPAÑOL
+http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8e6vAQ3KphANp27lCF4TWS/ts
 #EXTINF:-1,MULTIPREMIER
 http://177.53.153.20:8001/play/a07o
 #EXTINF:-1,CINE FAMILIAR
