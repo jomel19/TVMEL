@@ -2,15 +2,15 @@
 #EXTINF:-1,HOSSANA VISION HD
 #EXTGRP: TV CRISTIANA
 http://home-playtv.com:8080/marcelalopez/CHXRH/122259
-#EXTINF:-1,Bethel HD
-#EXTGRP: TV CRISTIANA
-http://190.119.178.46:8000/play/a03d
 #EXTINF:-1,Enlace 
 #EXTGRP: TV CRISTIANA
 http://190.61.55.186:1010/play/a02b
 #EXTINF:-1,Enlace 
 #EXTGRP: TV CRISTIANA
 http://45.71.252.16:8000/play/a09n
+#EXTINF:-1,DIOS TV KIDS
+#EXTGRP: TV CRISTIANA
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1,EBENEZER HD
 #EXTGRP: TV CRISTIANA
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1426114740_b3128000.m3u8
@@ -148,7 +148,7 @@ http://187.102.208.83:50000/play/a033
 http://home-playtv.com:8080/marcelalopez/CHXRH/102643
 #EXTINF:0,América TV HD
 #EXTGRP:PERU
-http://tv.soccerplus.link:8000/carloscedeno/11223344/22511
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/248
 #EXTINF:0,América TV HD
 #EXTGRP:PERU
 http://181.176.172.66:9000/play/a02k
@@ -157,7 +157,7 @@ http://181.176.172.66:9000/play/a02k
 http://167.250.135.246:81/play/a098
 #EXTINF:0,America TV HD 
 #EXTGRP:PERU
-http://190.119.123.220:4000/play/a03a
+http://190.119.123.220:4000/play/a01t
 #EXTINF:0,America TV HD
 #EXTGRP:PERU
 http://38.43.151.206:8000/play/a033
@@ -298,7 +298,7 @@ http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr-2vQJ9kljDN
 #EXTINF:0,COMEDY CENTRAL
 http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr-WjD32N3MgD76kV0QOrGT7/ts
 #EXTINF:0,DISTRITO COMEDIA
-http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/471134
+http://45.5.117.182:8000/play/ihf9
 #EXTINF:0,DISTRITO COMEDIA
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/59454
 #EXTINF:0,UNIMAS 
