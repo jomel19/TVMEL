@@ -408,7 +408,7 @@ http://190.116.90.43:8000/play/a00i
 http://200.59.188.3:8000/play/a032
 #EXTINF:-1,ESPN PREMIUM HD 
 #EXTGRP:PACK ESPN
-http://190.119.178.46:8000/play/a01f
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/542
 #EXTINF:-1,ESPN PREMIUM HD
 #EXTGRP:PACK ESPN
 http://161.132.108.74:50001/play/a02p
@@ -420,7 +420,7 @@ http://190.116.90.43:8000/play/a00u
 http://home-playtv.com:8080/CarlosAL/HBGWY/19485
 #EXTINF:-1,Fox Sports 2 ARG HD
 #EXTGRP:PACK FOX SPORTS
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/272047
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781
 #EXTINF:-1,Fox Sports MX HD
 #EXTGRP:PACK FOX SPORTS
 http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8BvK7ks9z_Pn_Hpl5PJIQ8/ts
@@ -429,13 +429,13 @@ http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8BvK7ks9z_P
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190645
 #EXTINF:-1,Fox Sports PREMIUM HD
 #EXTGRP:PACK FOX SPORTS
-http://home-playtv.com:8080/CarlosAL/HBGWY/158454
+http://45.5.117.182:8000/play/j0b9
 #EXTINF:-1,TyC Sports HD 
 #EXTGRP:DEPORTES INT
 http://home-playtv.com:8080/CarlosAL/HBGWY/188939
 #EXTINF:-1,TyC Sports HD 
 #EXTGRP:DEPORTES INT
-http://190.119.178.46:8000/play/a018
+http://38.41.8.1:8000/play/a02i
 #EXTINF:-1,TyC Sports HD
 #EXTGRP:DEPORTES INT
 http://190.119.178.44:8000/play/a01c
@@ -565,6 +565,8 @@ http://190.119.123.220:4000/play/a01y
 #EXTINF:-1,CHV HD
 http://190.119.123.220:4000/play/a00l
 #EXTINF:-1,CHV HD
+http://38.41.8.1:8000/play/a00o
+#EXTINF:-1,CHV HD
 http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr_6NEM41IY_hvaqQIjIkqIw/ts
 #EXTINF:0,MEGA HD
 http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr85EvcStGQSfcX0vVp53Mxz/ts
@@ -573,17 +575,19 @@ http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8qXsvwqZrRW
 #EXTINF:1,ZAPPING SPORTS CHILE
 http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8CsYr8a2LfNaME-13dZA6l/ts
 #EXTINF:1,CARACOL HD
-http://190.61.55.186:1010/play/a055/index.m3u8
+http://190.61.55.186:1010/play/a055
 #EXTINF:1,CARACOL HD
 http://home-playtv.com:8080/marcelalopez/CHXRH/167983
 #EXTINF:1,CARACOL HD
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/11
 #EXTINF:1,CARACOL HD
+http://38.41.8.1:8000/play/a02v
+#EXTINF:1,CARACOL HD
 http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8NPBxHiYm7aB9K8iVLKRa9/ts
 #EXTINF:-1,Caracol HD
 http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr8xqya_Qebo1pPAvmnNPVtD/ts
 #EXTINF:-1,RCN HD
-http://novared.pro:80/play/B15skFKxfKtHE2Bvr6Ih_g-4NIt5W9k0CNGYldqVwr_NfLZuunMB5Px2WcvLU9Dm/ts
+http://200.59.188.3:8000/play/a03a
 #EXTINF:-1,RCN HD
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/60780
 #EXTINF:-1,RCN HD
