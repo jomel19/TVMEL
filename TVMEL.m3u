@@ -239,6 +239,9 @@ http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0,CANAL IPE
 #EXTGRP: PERU
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:0,NACIONAL TV
+#EXTGRP: PERU
+https://play.agenciastreaming.com:8081/nacionaltv/tracks-a1/index.fmp4.m3u8
 #EXTINF:0,NATIVA TV
 #EXTGRP: PERU
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
@@ -278,6 +281,9 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,CANAL 8 CATACAOS TV HD
 #EXTGRP:PERU
 https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1,CAJAMARCA TV HD
+#EXTGRP:PERU
+https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
 #EXTINF:-1,CONECTA2 TV HD
 #EXTGRP:PERU
 https://servilive.com:3114/live/liveulive.m3u8
