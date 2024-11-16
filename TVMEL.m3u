@@ -68,9 +68,6 @@ http://disfruta.net:80/1020384/NnAQhsFApU/18429
 #EXTINF:0,L1 MAX NEW
 #EXTGRP:DEPORTES PERU
 http://teletv.xyz:8080/RosarioGarcia00/PjZb3frumV/280643
-#EXTINF:0,LIGA 1 MAX NXT
-#EXTGRP:DEPORTES PERU
-https://nxt.plus:8443/jdsoteldo/123456/227763
 #EXTINF:0,L1 MAX 00322
 #EXTGRP:DEPORTES PERU
 http://00322.xyz:8000/live/luzmejia/JJCP6Q6/159941.ts
@@ -83,9 +80,6 @@ http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/207701
 #EXTINF:0,L1 MAX
 #EXTGRP:DEPORTES PERU
 http://tv.zapping.life:8080/olgalmon/BaF3AEK3Zg/8458
-#EXTINF:0,L1 MAX STAR
-#EXTGRP:DEPORTES PERU
-http://starfamily.vip:8080/kytkev9/peaEUdLGEtaK/540599
 #EXTINF:0,DSPORTS PE
 #EXTGRP:DEPORTES PERU
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/248240
@@ -118,7 +112,7 @@ http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/304
 http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/206443
 #EXTINF:0,Movistar Deportes HD 4
 #EXTGRP:DEPORTES PERU
-http://190.61.55.186:1010/play/a00q
+http://200.60.124.19:29000/play/a06p
 #EXTINF:0,Latina HD
 #EXTGRP:PERU
 http://38.41.8.1:8000/play/a02h
@@ -133,7 +127,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/21772
 http://200.59.188.3:8000/play/a0k0
 #EXTINF:0,Latina HD
 #EXTGRP:PERU
-http://home-playtv.com:8080/powertv/TmZMqpkdUusg/186626
+http://200.60.124.19:29000/play/a072
 #EXTINF:0,America TV HD
 #EXTGRP:PERU
 http://38.41.8.1:8000/play/a02g
