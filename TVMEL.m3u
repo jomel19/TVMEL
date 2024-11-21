@@ -115,22 +115,22 @@ http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/206443
 http://200.60.124.19:29000/play/a06p
 #EXTINF:0,Latina HD
 #EXTGRP:PERU
-http://38.41.8.1:8000/play/a02h
+http://190.0.241.181:8000/play/a08w
 #EXTINF:0,Latina HD
 #EXTGRP:PERU
-http://200.59.188.3:8000/play/a0k0
+http://xdplayer.tv:8080/play/tnyErgS5M5CEFfvXoJcrySLgTXOFEI_dcoHdclO6G1E
 #EXTINF:0,Latina HD
 #EXTGRP:PERU
 http://home-playtv.com:8080/marcelalopez/CHXRH/21772
 #EXTINF:0,Latina HD F
 #EXTGRP:PERU
-http://200.59.188.3:8000/play/a0k0
+http://200.59.188.3:8000/play/a0lw
 #EXTINF:0,Latina HD
 #EXTGRP:PERU
 http://200.60.124.19:29000/play/a072
 #EXTINF:0,America TV HD
 #EXTGRP:PERU
-http://38.41.8.1:8000/play/a02g
+http://200.60.124.19:29000/play/a04r
 #EXTINF:0,America TV HD
 #EXTGRP:PERU
 http://home-playtv.com:8080/marcelalopez/CHXRH/102643
@@ -142,13 +142,16 @@ http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/248
 http://xxip25.top:8080/live/chino006@live.com/2g7dP4JDPjY/110637.m3u8
 #EXTINF:0,America TV HD
 #EXTGRP:PERU
+http://200.60.124.19:29000/play/a008
+#EXTINF:0,America TV HD
+#EXTGRP:PERU
 http://home-playtv.com:8080/GustavoSalgado/GXBFF/102643
 #EXTINF:0,America TV HD 
 #EXTGRP:PERU
-http://190.119.123.220:4000/play/a01t
+http://190.119.123.220:4000/play/a051
 #EXTINF:0,America TV HD
 #EXTGRP:PERU
-http://200.59.188.3:8000/play/a02l
+http://200.59.188.3:8000/play/a0li
 #EXTINF:0,PANAMERICANA HD 1
 #EXTGRP:PERU
 http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/330720.ts
@@ -157,16 +160,16 @@ http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/330720.ts
 http://home-playtv.com:8080/PLANPREMIUNS1/CNGCV/552281
 #EXTINF:0,PANAMERICANA 3
 #EXTGRP:PERU
-http://190.119.123.220:4000/play/a03a/index.m3u8
+http://190.119.123.220:4000/play/a03a
 #EXTINF:0,PANAMERICANA 4
 #EXTGRP:PERU
-http://190.119.123.220:4000/play/a03a
+http://200.60.124.19:29000/play/a0b7
 #EXTINF:0,PANAMERICANA 5
 #EXTGRP:PERU
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:0,ATV HD
 #EXTGRP:PERU
-http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
+http://200.60.124.19:29000/play/a0bb
 #EXTINF:0,ATV HD
 #EXTGRP:PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330716
@@ -194,6 +197,9 @@ http://190.119.123.220:4000/play/exitosa/index.m3u8
 #EXTINF:0,CONGRESO HD
 #EXTGRP:PERU
 http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/349353.ts
+#EXTINF:0,CONGRESO HD
+#EXTGRP:PERU
+http://xdplayer.tv:8080/play/tnyErgS5M5CEFfvXoJcrydJMhiWMhkfwD8H8OMh-eGbLw1pBRuWt8ICI9IflCYv1
 #EXTINF:0,JUSTICIA TV HD
 #EXTGRP:PERU
 http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
@@ -205,7 +211,7 @@ http://190.119.123.220:4000/play/willaxtv/index.m3u8
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330722
 #EXTINF:0,RPP HD
 #EXTGRP:PERU
-http://190.119.123.220:4000/play/a02n
+http://190.119.123.220:4000/play/a04i
 #EXTINF:0,RPP HD
 #EXTGRP:PERU
 http://home-playtv.com:8080/marcelalopez/CHXRH/12893
@@ -217,10 +223,16 @@ http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330726
 http://190.119.123.220:4000/play/a02h
 #EXTINF:0,CANAL N HD
 #EXTGRP:PERU
+http://200.60.124.19:29000/play/a0ba
+#EXTINF:0,CANAL N HD
+#EXTGRP:PERU
+http://xdplayer.tv:8080/play/tnyErgS5M5CEFfvXoJcryZn5bqY569edrsOCe8Xento
+#EXTINF:0,CANAL N HD
+#EXTGRP:PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330724
 #EXTINF:0,TV PERU
 #EXTGRP:PERU
-http://38.41.8.1:8000/play/a0as
+http://200.60.124.19:29000/play/a0b9
 #EXTINF:0,TV PERU
 #EXTGRP:PERU
 http://190.119.123.220:4000/play/a02g/index.m3u8
@@ -235,7 +247,7 @@ http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:0,NACIONAL TV
 #EXTGRP: PERU
-https://play.agenciastreaming.com:8081/nacionaltv/tracks-a1/index.fmp4.m3u8
+httpS://play.agenciastreaming.com:8081/nacionaltv/tracks-a1/index.fmp4.m3u8
 #EXTINF:0,NATIVA TV
 #EXTGRP: PERU
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
@@ -254,34 +266,37 @@ http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330739
 #EXTINF:0,GLOBAL
 #EXTGRP:PERU
 http://190.119.123.220:4000/play/a03b
+#EXTINF:0,GLOBAL
+#EXTGRP:PERU
+http://200.60.124.19:29000/play/a0bc
 #EXTINF:-1,SOL TV HD
 #EXTGRP:PERU
 http://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1,ANTARES TV HD
 #EXTGRP:PERU
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1,UNITEL TV HD
+#EXTINF:0,UNITEL TV HD
 #EXTGRP:PERU
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1,VIA ALTOMAYO TV HD
+#EXTINF:0,VIA ALTOMAYO TV HD
 #EXTGRP:PERU
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1,ASIRI TV HD
+#EXTINF:0,ASIRI TV HD
 #EXTGRP:PERU
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1,AUNTENTICA TV HD
+#EXTINF:0,AUNTENTICA TV HD
 #EXTGRP:PERU
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1,CANAL 8 CATACAOS TV HD
+#EXTINF:0,CANAL 8 CATACAOS TV HD
 #EXTGRP:PERU
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1,CAJAMARCA TV HD
+#EXTINF:0,CAJAMARCA TV HD
 #EXTGRP:PERU
 https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
-#EXTINF:-1,CONECTA2 TV HD
+#EXTINF:0,CONECTA2 TV HD
 #EXTGRP:PERU
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1,DMJ CUSCO TV HD
+#EXTINF:0,DMJ CUSCO TV HD
 #EXTGRP:PERU
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:0,EL CANAL DE LAS ESTRELLAS
