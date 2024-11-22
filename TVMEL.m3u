@@ -83,18 +83,25 @@ http://tv.zapping.life:8080/olgalmon/BaF3AEK3Zg/8458
 #EXTINF:0,DSPORTS PE
 #EXTGRP:DEPORTES PERU
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/248240
-#EXTINF:0,DSPORTS 2.1 PE
+#EXTINF:0,DSPORTS PE 1
 #EXTGRP:DEPORTES PERU
-http://38.43.151.206:8000/play/a04m
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777
+#EXTINF:0,DSPORTS PE 2
+http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330779
+#EXTINF:0,DSPORTS PE 2.1
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/464
 #EXTINF:0,DSPORTS + PE
 #EXTGRP:DEPORTES PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781
+#EXTINF:0,DSPORTS+ PE 1
+#EXTGRP:DEPORTES PERU
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/468
 #EXTINF:0,GOLPERU HD 1
 #EXTGRP:DEPORTES PERU
-http://200.59.188.3:8000/play/a0k2
+http://190.119.123.220:4000/play/a01w
 #EXTINF:0,GOLPERU HD 2
 #EXTGRP:DEPORTES PERU
-http://190.61.55.186:1010/play/a010
+
 #EXTINF:0,GOLPERU HD 3
 #EXTGRP:DEPORTES PERU
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/308
@@ -481,7 +488,7 @@ http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/479
 #EXTINF:0,DSPORTS 
 #EXTGRP:PACK D'SPORTS
-http://38.43.151.206:8000/play/a04m
+http://38.43.151.206:8000/play/a04m NF
 #EXTINF:0,DSPORTS 2
 #EXTGRP:PACK D'SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/475
@@ -1043,9 +1050,6 @@ http://weib-tv.com:80/carlos4331/RpUXQfS/583648
 http://weib-tv.com:80/carlos4331/RpUXQfS/583642
 #EXTINF:-1,EL GALLO CLAUDIO
 http://home-playtv.com:8080/marcelalopez/CHXRH/108080
-#EXTINF:-1,JACKIE CHAN
-https://zonamovie.live:8443/movie/Dany2024/Dany2024/843728.mkv
 #EXTINF:-1,AMERICA TV SD
 http://magi-stv.net:8080/barcelona2023/barcelona2023/124120
-
 
