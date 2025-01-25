@@ -163,30 +163,32 @@ http://201.182.248.254:8888/play/a094
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
 http://200.59.188.3:8000/play/a0li
-#EXTINF:0,PANAMERICANA HD 1
+#EXTINF:-1,PANAMERICANA HD 1
 #EXTGRP:PERU
 http://novared.pro:80/120323.122323.231203./NrsjEuCkzAgy/330720.ts
-#EXTINF:0,PANAMERICANA 2
+#EXTINF:-1,PANAMERICANA 2
 #EXTGRP:PERU
 http://home-playtv.com:8080/PLANPREMIUNS1/CNGCV/552281
-#EXTINF:0,PANAMERICANA 3
+#EXTINF:-1,PANAMERICANA 3
 #EXTGRP:PERU
 http://190.216.162.156:8001/play/a05e
 #EXTINF:0,PANAMERICANA 4
 #EXTGRP:PERU
 http://200.60.124.19:29000/play/a0b7
-#EXTINF:0,PANAMERICANA 5
+#EXTINF:-1,PANAMERICANA 5
 #EXTGRP:PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-#EXTINF:0,ATV HD
+#EXTINF:-1,ATV HD
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/301
+#EXTINF:-1,ATV HD
 #EXTGRP:PERU
-http://200.60.124.19:29000/play/a0bb
-#EXTINF:0,ATV HD
+http://200.60.124.19:29000/play/a04t/index.m3u8
+#EXTINF:-1,ATV HD
 #EXTGRP:PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330716
-#EXTINF:0,ATV HD
+#EXTINF:-1,ATV HD
 #EXTGRP:PERU
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+http://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,ATV + HD
 #EXTGRP:PERU
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330718
