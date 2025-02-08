@@ -252,6 +252,9 @@ http://200.60.124.19:29000/play/a0bc
 #EXTINF:-1,SOL TV HD
 #EXTGRP:PERU
 http://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1,TRIVU TV HD
+#EXTGRP:PERU
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1,ANTARES TV HD
 #EXTGRP:PERU
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
