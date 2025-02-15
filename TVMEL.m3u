@@ -206,6 +206,9 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
 http://8.243.126.131:8000/play/a0e3/index.m3u8
 #EXTINF:-1,WILLAX
 #EXTGRP:PERU
+https://live-b2.cf.dmcdn.net/sec2(29MLz3xs72OPtDPy5UtyDkydheAKZ8CuZQ5hNE_P-rzk9cAEmVT09PMvtRPpSYRcSMdBSmnazBB7Tb-6aSEa70IyFlkSBCDs_M2smHHHJHvryP9h5Ko9oDmTN-JDWROS)/cloud/3/x7x4dgx/s/live-720.m3u8
+#EXTINF:-1,WILLAX
+#EXTGRP:PERU
 http://200.60.124.19:29000/play/a06s/index.m3u8
 #EXTINF:-1,WILLAX
 #EXTGRP:PERU
