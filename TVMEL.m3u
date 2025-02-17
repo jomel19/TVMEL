@@ -94,7 +94,7 @@ http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/468
 http://209.45.52.14:8000/play/a191/index.m3u8
 #EXTINF:-1,GOLPERU HD 2
 #EXTGRP:DEPORTES PERU
-http://200.60.172.98:8000/play/a00r/index.m3u8
+http://190.216.162.156:8001/play/a03m/index.m3u8
 #EXTINF:-1,GOLPERU HD 3
 #EXTGRP:DEPORTES PERU
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/308
@@ -194,7 +194,7 @@ http://200.215.251.253:8040/play/a01y
 #EXTGRP:PERU
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,Exitosa HD
-http://200.60.172.98:8000/play/a03h/index.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF:0,CONGRESO HD
 #EXTGRP:PERU
 http://xdplayer.tv:8080/play/tnyErgS5M5CEFfvXoJcrydJMhiWMhkfwD8H8OMh-eGbLw1pBRuWt8ICI9IflCYv1
@@ -249,7 +249,7 @@ https://play.agenciastreaming.com:8081/nacionaltv/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1,NATIVA TV
 #EXTGRP: PERU
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:0,GLOBAL
+#EXTINF:-1,GLOBAL
 #EXTGRP:PERU
 http://200.60.124.19:29000/play/a0bc
 #EXTINF:-1,SOL TV HD
@@ -284,38 +284,38 @@ https://servilive.com:3114/live/liveulive.m3u8
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:0,DE PELICULA 
 http://200.60.172.98:8000/play/a01e/index.m3u8
-#EXTINF:0,COMEDY CENTRAL
+#EXTINF:-1,COMEDY CENTRAL
 http://200.60.172.98:8000/play/a01p/index.m3u8
-#EXTINF:0,DISTRITO COMEDIA
+#EXTINF:-1,DISTRITO COMEDIA
 http://45.5.117.182:8000/play/ihf9
-#EXTINF:0,DISTRITO COMEDIA
+#EXTINF:-1,DISTRITO COMEDIA
 http://45.175.139.194:8000/play/28
-#EXTINF:0,DISTRITO COMEDIA
+#EXTINF:-1,DISTRITO COMEDIA
 http://38.224.222.34:8000/play/a00t
-#EXTINF:0,DISTRITO COMEDIA
+#EXTINF:-1,DISTRITO COMEDIA
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/59454
-#EXTINF:0,UNIMAS 
+#EXTINF:-1,UNIMAS 
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22978
-#EXTINF:0,UNIMAS MIAMI
+#EXTINF:-1,UNIMAS MIAMI
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22991
-#EXTINF:0,UNIMAS MIAMI
+#EXTINF:-1,UNIMAS MIAMI
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/22980
-#EXTINF:0,ESPN HD PE
+#EXTINF:-1,ESPN HD PE
 #EXTGRP:PACK ESPN
 http://45.181.122.201:8081/play/a00i
 #EXTINF:-1,ESPN HD
 #EXTGRP:PACK ESPN
 http://190.0.241.181:8000/play/a0a8
-#EXTINF:0,ESPN HD F
+#EXTINF:-1,ESPN HD F
 #EXTGRP:PACK ESPN
 http://200.59.188.3:8000/play/a0mp
-#EXTINF:0,ESPN HD F
+#EXTINF:-1,ESPN HD F
 #EXTGRP:PACK ESPN
 http://45.184.87.142:8000/play/a049
-#EXTINF:0,ESPN HD
+#EXTINF:-1,ESPN HD
 #EXTGRP:PACK ESPN
 http://38.41.8.1:8000/play/a0jq
-#EXTINF:0,ESPN 2 HD PE
+#EXTINF:-1,ESPN 2 HD PE
 #EXTGRP:PACK ESPN
 http://45.181.122.201:8081/play/a00s
 #EXTINF:-1,ESPN 2 HD
@@ -354,10 +354,10 @@ http://200.60.172.98:8000/play/a00p/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 #EXTGRP:PACK ESPN
 http://200.59.188.3:8000/play/a0ih
-#EXTINF:0,ESPN 7 HD
+#EXTINF:-1,ESPN 7 HD
 #EXTGRP:PACK ESPN
 http://200.60.172.98:8000/play/a00q/index.m3u8
-#EXTINF:0,ESPN 7 HD
+#EXTINF:-1,ESPN 7 HD
 #EXTGRP:PACK ESPN
 http://200.59.188.3:8000/play/a0t8
 #EXTINF:-1,ESPN PREMIUM HD
@@ -372,25 +372,25 @@ http://8.243.126.131:8000/play/a0cs/index.m3u8
 #EXTINF:-1,ESPN MX HD 
 #EXTGRP:PACK ESPN
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/523
-#EXTINF:0,ESPN 2 MX HD 
+#EXTINF:-1,ESPN 2 MX HD 
 #EXTGRP:PACK ESPN
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/501
-#EXTINF:0,ESPN 3 MX HD 
+#EXTINF:-1,ESPN 3 MX HD 
 #EXTGRP:PACK ESPN
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/59421
-#EXTINF:0,Fox Sports 2 ARG HD
+#EXTINF:-1,Fox Sports 2 ARG HD
 #EXTGRP:PACK FOX SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/456
-#EXTINF:0,Fox Sports 3 ARG HD
+#EXTINF:-1,Fox Sports 3 ARG HD
 #EXTGRP:PACK FOX SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/537
-#EXTINF:0,Fox Sports MX HD
+#EXTINF:-1,Fox Sports MX HD
 #EXTGRP:PACK FOX SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/534
-#EXTINF:0,Fox Sports PREMIUM HD
+#EXTINF:-1,Fox Sports PREMIUM HD
 #EXTGRP:PACK FOX SPORTS
 http://45.5.117.182:8000/play/j0b9
-#EXTINF:0,Fox Sports PREMIUM HD
+#EXTINF:-1,Fox Sports PREMIUM HD
 #EXTGRP:PACK FOX SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/540
 #EXTINF:-1,TyC Sports HD 
@@ -402,7 +402,7 @@ http://200.60.172.98:8000/play/a00u/index.m3u8
 #EXTINF:-1,TyC Sports HD
 #EXTGRP:DEPORTES INT
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/462
-#EXTINF:0,TNT Sports ARG HD
+#EXTINF:-1,TNT Sports ARG HD
 #EXTGRP:DEPORTES INT
 http://8.243.126.131:8000/play/a0cl/index.m3u8
 #EXTINF:-1,TNT Sports PREMIUM ARG HD
@@ -411,25 +411,25 @@ http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/86
 #EXTINF:-1,GOL TV HD
 #EXTGRP:DEPORTES INT
 http://8.243.126.131:8000/play/a0dj/index.m3u8
-#EXTINF:0,VTV URU HD
+#EXTINF:-1,VTV URU HD
 #EXTGRP:DEPORTES INT
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/558
-#EXTINF:0,DSports 
+#EXTINF:-1,DSports 
 #EXTGRP:PACK D'SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/481
-#EXTINF:0,DSPORTS 
+#EXTINF:-1,DSPORTS 
 #EXTGRP:PACK D'SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/479
-#EXTINF:0,DSPORTS 2
+#EXTINF:-1,DSPORTS 2
 #EXTGRP:PACK D'SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/475
-#EXTINF:0,DSPORTS +
+#EXTINF:-1,DSPORTS +
 #EXTGRP:PACK D'SPORTS
 http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/468
-#EXTINF:0,ECDF
+#EXTINF:-1,ECDF
 #EXTGRP:DEPORTES INT
 http://190.119.123.220:4000/play/a01x
-#EXTINF:0,ECDF
+#EXTINF:-1,ECDF
 #EXTGRP:DEPORTES INT
 http://38.41.8.1:8000/play/a02k
 #EXTINF:-1,TNT Sports ARG HD
