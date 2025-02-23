@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,BETHEL TV
-http://209.45.52.14:8000/play/a0z5/index.m3u8
+#EXTINF:-1,BETHEL TV AC
+http://209.45.52.14:8000/play/a1jw/index.m3u8
 #EXTINF:-1,Enlace 
 #EXTGRP: TV CRISTIANA
 http://200.60.124.19:29000/play/a01y
