@@ -49,13 +49,17 @@ http://8.243.126.131:8000/play/a0b0/index.m3u8
 #EXTGRP: PERU
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1,L1
+#EXTGRP:DEPORTES PERU
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/478009.ts
+#EXTINF:-1,L1
+#EXTGRP:DEPORTES PERU
+http://195.66.210.10:80/useradjw/VGKTH/478009
 #EXTINF:-1,L1 MAX HD HD
 #EXTGRP:DEPORTES PERU
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/469158.ts
 #EXTINF:-1,L1 MAX HD F
 #EXTGRP:DEPORTES PERU
-http://190.216.162.156:8001/play/a05l/index.m3u8
+http://195.66.210.10:80/useradjw/VGKTH/469158
 #EXTINF:-1,L1 MAX HD V
 #EXTGRP:DEPORTES PERU
 http://200.60.124.19:29000/play/a07k/index.m3u8
@@ -76,7 +80,7 @@ http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/207701
 http://tv.zapping.life:8080/olgalmon/BaF3AEK3Zg/8458
 #EXTINF:-1,DSPORTS HD AC
 #EXTGRP:DEPORTES PERU
-http://190.216.162.156:8001/play/a05f/index.m3u8
+http://195.66.210.10:80/useradjw/VGKTH/469393
 #EXTINF:-1,DSPORTS 
 #EXTGRP:DEPORTES PERU
 http://cciptv.es/live/95827389/TgHsyqXc62/424311.ts
@@ -91,7 +95,7 @@ http://190.216.162.156:8001/play/a05g
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/257326.ts
 #EXTINF:0,DSPORTS+ HD AC
 #EXTGRP:DEPORTES PERU
-http://190.216.162.156:8001/play/a05h/index.m3u8
+http://195.66.210.10:80/useradjw/VGKTH/69954
 #EXTINF:0,DSPORTS+ PE 1
 #EXTGRP:DEPORTES PERU
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/518959.ts
@@ -142,22 +146,19 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 http://200.60.124.19:29000/play/a04r
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
-http://200.59.188.3:8000/play/a0li
+http://190.216.162.156:8001/play/a04i
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
 http://xxip25.top:8080/live/chino006@live.com/2g7dP4JDPjY/110637.m3u8
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
 http://200.60.124.19:29000/play/a008
-#EXTINF:-1,America TV HD
-#EXTGRP:PERU
-http://home-playtv.com:8080/GustavoSalgado/GXBFF/102643
 #EXTINF:-1,America TV HD 
 #EXTGRP:PERU
-http://201.182.248.254:8888/play/a094
+http://200.59.188.3:8000/play/a0li
 #EXTINF:-1,America TV HD
 #EXTGRP:PERU
-http://190.216.162.156:8001/play/a04i
+http://201.182.248.254:8888/play/a094
 #EXTINF:-1,PANAMERICANA HD 1
 #EXTGRP:PERU
 http://200.215.251.253:8040/play/a021
@@ -225,19 +226,22 @@ http://200.215.251.253:8040/play/a025
 http://200.60.124.19:29000/play/a06s/index.m3u8
 #EXTINF:-1,WILLAX
 #EXTGRP:PERU
-http://200.215.251.253:8040/play/a025
+http://195.66.210.10:80/useradjw/VGKTH/190542
 #EXTINF:-1,RPP HD
 #EXTGRP:PERU
-http://190.216.162.156:8001/play/a05q
+http://195.66.210.10:80/useradjw/VGKTH/12893
 #EXTINF:-1,RPP HD
 #EXTGRP:PERU
-http://190.216.162.156:8001/play/a05q/index.m3u8
+http://38.41.8.1:8000/play/a0s5
+#EXTINF:-1,RPP HD
+#EXTGRP:PERU
+http://190.83.60.34:1414/play/a0bi/index.m3u8
 #EXTINF:-1,CANAL N HD
 #EXTGRP:PERU
-http://190.216.162.156:8001/play/a05o/index.m3u8
+http://38.41.8.1:8000/play/a0s3
 #EXTINF:-1,CANAL N HD
 #EXTGRP:PERU
-http://190.216.162.156:8001/play/a05o
+http://190.83.60.34:1414/play/a07g/index.m3u8
 #EXTINF:-1,TV PERU
 #EXTGRP:PERU
 http://200.60.124.19:29000/play/a0b9
@@ -261,7 +265,7 @@ https://play.agenciastreaming.com:8081/nacionaltv/tracks-a1/index.fmp4.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1,GLOBAL
 #EXTGRP:PERU
-http://190.216.162.156:8001/play/a05r/index.m3u8
+http://190.83.60.34:1414/play/a07f/index.m3u8
 #EXTINF:-1,SOL TV HD
 #EXTGRP:PERU
 http://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -386,6 +390,9 @@ http://190.216.162.156:8001/play/a04j/index.m3u8
 #EXTINF:-1,ESPN PREMIUM HD
 #EXTGRP:PACK ESPN
 http://8.243.126.131:8000/play/a0cs/index.m3u8
+#EXTINF:-1,Fox Sports PREMIUM HD
+#EXTGRP:PACK FOX SPORTS
+http://195.66.210.10:80/useradjw/VGKTH/588157
 #EXTINF:-1,Fox Sports 2 ARG HD
 #EXTGRP:PACK FOX SPORTS
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/158518.ts
@@ -395,9 +402,12 @@ http://maxcuentas.pro:8080/live/useradjw/VGKTH/19652.ts
 #EXTINF:-1,Fox Sports MX HD
 #EXTGRP:PACK FOX SPORTS
 http://190.216.162.156:8001/play/a05i/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-#EXTGRP:PACK FOX SPORTS
-http://190.216.162.156:8001/play/a05k/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD MX
+#EXTGRP:PACK FOX SPORTS 
+http://195.66.210.10:80/useradjw/VGKTH/588170
+#EXTINF:-1,Fox Sports 3 HD ARG
+#EXTGRP:PACK FOX SPORTS 
+http://195.66.210.10:80/useradjw/VGKTH/588169
 #EXTINF:-1,TyC Sports HD 
 #EXTGRP:DEPORTES INThttp://38.41.8.1:8000/play/a0wj
 #EXTINF:-1,TNT Sports ARG HD
@@ -678,49 +688,43 @@ http://181.205.130.194:4000/play/a08q
 http://weib-tv.com:80/carlos4331/RpUXQfS/583647
 #EXTINF:-1,El Chavo Del 8 F
 #EXTGRP:24/7
-http://disfruta.net:80/1020384/NnAQhsFApU/1263
+http://195.66.210.10:80/useradjw/VGKTH/216295
 #EXTINF:-1, CHESPIRITO F
 #EXTGRP:24/7
 http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/304514
 #EXTINF:-1,Cantinflas F
 #EXTGRP:24/7
-http://disfruta.net:80/1020384/NnAQhsFApU/1020
+http://195.66.210.10:80/useradjw/VGKTH/107891
 #EXTINF:-1,Looney Tones F
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1479
 #EXTINF:-1,Tom y jerry
 #EXTGRP:24/7
-http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
-#EXTINF:-1, Pajaro Loco F
-#EXTGRP:24/7
-http://disfruta.net:80/1020384/NnAQhsFApU/1917
-#EXTINF:-1, La Vaca y El Pollo F
-#EXTGRP:24/7
-http://disfruta.net:80/1020384/NnAQhsFApU/4785
-#EXTINF:-1, ANIMANIACS
-#EXTGRP:24/7
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374751
-#EXTINF:-1,CORAJE EL PERRO COBARDE
-#EXTGRP:24/7
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374754
-#EXTINF:-1,ED, EDD Y EDDY
-#EXTGRP:24/7
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374756
-#EXTINF:-1,JORGE EL CURIOSO
-#EXTGRP:24/7
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/374762
+http://195.66.210.10:80/useradjw/VGKTH/108027
 #EXTINF:-1, Cinema PPV2
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1056
 #EXTINF:-1, Cinema PPV3
 #EXTGRP:24/7
 http://disfruta.net:80/1020384/NnAQhsFApU/1057
-#EXTINF:-1,CERO EN CONDUCTA
-http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/62417
 #EXTINF:-1,UNA FAMILIA DE 10
 http://weib-tv.com:80/carlos4331/RpUXQfS/583648
 #EXTINF:-1,FAMILIA PELUCHE
 http://weib-tv.com:80/carlos4331/RpUXQfS/583642
+#EXTINF:-1,DON GATO
+http://195.66.210.10:80/useradjw/VGKTH/169819
+#EXTINF:-1,SUPERCAMEONES
+http://195.66.210.10:80/useradjw/VGKTH/169821
+#EXTINF:-1,CANDY
+http://195.66.210.10:80/useradjw/VGKTH/177094
+#EXTINF:-1,CHAPARRAL
+http://195.66.210.10:80/useradjw/VGKTH/217386
+#EXTINF:-1,PAJARO LOCO
+http://195.66.210.10:80/useradjw/VGKTH/177169
+#EXTINF:-1,JORGE EL CURIOSO
+http://195.66.210.10:80/useradjw/VGKTH/216296
+#EXTINF:-1,ALERTA AEROPUERTO
+http://195.66.210.10:80/useradjw/VGKTH/531669
 
 
 
