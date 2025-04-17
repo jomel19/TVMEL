@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BETHEL TV AC
-http://209.45.52.14:8000/play/a1jw/index.m3u8
+http://200.60.124.19:29000/play/a0e8/index.m3u8
 #EXTINF:-1,Enlace 
 #EXTGRP: TV CRISTIANA
 http://200.60.124.19:29000/play/a01y
@@ -110,7 +110,7 @@ http://195.66.210.10:80/useradjw/VGKTH/69954
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/518959.ts
 #EXTINF:-1,GOLPERU HD 1
 #EXTGRP:DEPORTES PERU
-http://209.45.52.14:8000/play/a191/index.m3u8
+http://45.71.254.1:8000/play/a08h/index.m3u8
 #EXTINF:-1,GOLPERU HD 2 FULL
 #EXTGRP:DEPORTES PERU
 http://190.216.162.156:8001/play/a09j/index.m3u8
@@ -170,7 +170,7 @@ http://200.59.188.3:8000/play/a0li
 http://201.182.248.254:8888/play/a0co/index.m3u8
 #EXTINF:-1,PANAMERICANA HD 1
 #EXTGRP:PERU
-http://190.216.162.156:8001/play/a09h/index.m3u8
+http://200.60.124.19:29000/play/a04s/index.m3u8
 #EXTINF:-1,PANAMERICANA 2
 #EXTGRP:PERU
 http://home-playtv.com:8080/PLANPREMIUNS1/CNGCV/552281
@@ -205,22 +205,13 @@ http://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,ATV SUR HD
 #EXTGRP:PERU
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+http://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,Exitosa HD
 #EXTGRP:PERU
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF:-1,Exitosa HD
 #EXTGRP:PERU
 http://200.215.251.253:8040/play/a022
-#EXTINF:0,CONGRESO HD
-#EXTGRP:PERU
-http://xdgo.tv:8080/live/U6WT42H2JR/SgVX4TS9uc/147575.ts
-#EXTINF:-1,PBO HD
-#EXTGRP:PERU
-http://xdgo.tv:8080/live/U6WT42H2JR/SgVX4TS9uc/92773.ts
-#EXTINF:-1,JUSTICIA TV HD
-#EXTGRP:PERU
-http://200.215.251.253:8040/play/a01z
 #EXTINF:-1,PLUS TV HD
 #EXTGRP:PERU
 http://8.243.126.131:8000/play/a0e3/index.m3u8
